@@ -1,0 +1,18 @@
+# Ignore everything by default
+/*
+
+# Allow OS Tool components
+!/.github/
+!/.github/workflows/
+!/.github/workflows/update_os_stats.yml
+!/scripts/
+!/scripts/fetch_rpi_os_stats.py
+!/data/
+!/data/rpi_os_stats.json
+!/README.md
+!/requirements.txt
+!/.gitignore
+
+# Still ignore python cache within allowed dirs
+**/__pycache__/
+**/*.pyc

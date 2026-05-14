@@ -1,0 +1,56 @@
+{
+    "last_updated": "14.05.2026 17:09",
+    "source": "https://rpi-imager-stats.raspberrypi.com/",
+    "top_10": [
+        {
+            "name": "Raspberry Pi OS (other)",
+            "value": 24.85,
+            "label": "24.85%"
+        },
+        {
+            "name": "Ubuntu",
+            "value": 7.34,
+            "label": "7.34%"
+        },
+        {
+            "name": "Home Assistant",
+            "value": 6.8,
+            "label": "6.80%"
+        },
+        {
+            "name": "Raspberry Pi OS (32-bit)",
+            "value": 6.43,
+            "label": "6.43%"
+        },
+        {
+            "name": "Raspberry Pi OS (Legacy, 32-bit)",
+            "value": 2.01,
+            "label": "2.01%"
+        },
+        {
+            "name": "RetroPie",
+            "value": 1.52,
+            "label": "1.52%"
+        },
+        {
+            "name": "Bootloader (Pi 5 family)",
+            "value": 1.42,
+            "label": "1.42%"
+        },
+        {
+            "name": "Bootloader (Pi 4 family)",
+            "value": 1.31,
+            "label": "1.31%"
+        },
+        {
+            "name": "OctoPi",
+            "value": 1.15,
+            "label": "1.15%"
+        },
+        {
+            "name": "DietPi",
+            "value": 0.9,
+            "label": "0.90%"
+        }
+    ]
+}
