@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 # Konfiguration
 SOURCE_URL = "https://rpi-imager-stats.raspberrypi.com/"
-OUTPUT_FILE = "social_drafts/rpi_os_stats.json"
+OUTPUT_FILE = "data/rpi_os_stats.json"
 
 def fetch_stats():
     print(f"Abrufen der Statistiken von {SOURCE_URL}...")

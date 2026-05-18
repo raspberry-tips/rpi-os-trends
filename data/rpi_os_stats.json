@@ -1,56 +1,56 @@
 {
-    "last_updated": "14.05.2026 17:09",
+    "last_updated": "18.05.2026 20:33",
     "source": "https://rpi-imager-stats.raspberrypi.com/",
     "top_10": [
         {
             "name": "Raspberry Pi OS (other)",
-            "value": 24.85,
-            "label": "24.85%"
+            "value": 24.82,
+            "label": "24.82%"
         },
         {
             "name": "Ubuntu",
-            "value": 7.34,
-            "label": "7.34%"
-        },
-        {
-            "name": "Home Assistant",
-            "value": 6.8,
-            "label": "6.80%"
+            "value": 8.06,
+            "label": "8.06%"
         },
         {
             "name": "Raspberry Pi OS (32-bit)",
-            "value": 6.43,
-            "label": "6.43%"
+            "value": 6.63,
+            "label": "6.63%"
+        },
+        {
+            "name": "Home Assistant",
+            "value": 5.42,
+            "label": "5.42%"
         },
         {
             "name": "Raspberry Pi OS (Legacy, 32-bit)",
-            "value": 2.01,
-            "label": "2.01%"
+            "value": 1.92,
+            "label": "1.92%"
         },
         {
-            "name": "RetroPie",
-            "value": 1.52,
-            "label": "1.52%"
+            "name": "Recalbox",
+            "value": 1.53,
+            "label": "1.53%"
         },
         {
             "name": "Bootloader (Pi 5 family)",
-            "value": 1.42,
-            "label": "1.42%"
+            "value": 1.53,
+            "label": "1.53%"
         },
         {
             "name": "Bootloader (Pi 4 family)",
-            "value": 1.31,
-            "label": "1.31%"
+            "value": 1.45,
+            "label": "1.45%"
         },
         {
-            "name": "OctoPi",
-            "value": 1.15,
-            "label": "1.15%"
+            "name": "RetroPie",
+            "value": 1.06,
+            "label": "1.06%"
         },
         {
-            "name": "DietPi",
-            "value": 0.9,
-            "label": "0.90%"
+            "name": "Mainsail OS",
+            "value": 1.05,
+            "label": "1.05%"
         }
     ]
 }
