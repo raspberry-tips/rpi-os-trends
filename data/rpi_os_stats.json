@@ -1,31 +1,31 @@
 {
-    "last_updated": "18.05.2026 20:33",
+    "last_updated": "18.05.2026 18:35",
     "source": "https://rpi-imager-stats.raspberrypi.com/",
     "top_10": [
         {
             "name": "Raspberry Pi OS (other)",
-            "value": 24.82,
-            "label": "24.82%"
+            "value": 24.8,
+            "label": "24.80%"
         },
         {
             "name": "Ubuntu",
-            "value": 8.06,
-            "label": "8.06%"
+            "value": 8.08,
+            "label": "8.08%"
         },
         {
             "name": "Raspberry Pi OS (32-bit)",
-            "value": 6.63,
-            "label": "6.63%"
+            "value": 6.64,
+            "label": "6.64%"
         },
         {
             "name": "Home Assistant",
-            "value": 5.42,
-            "label": "5.42%"
+            "value": 5.44,
+            "label": "5.44%"
         },
         {
             "name": "Raspberry Pi OS (Legacy, 32-bit)",
-            "value": 1.92,
-            "label": "1.92%"
+            "value": 1.91,
+            "label": "1.91%"
         },
         {
             "name": "Recalbox",
@@ -44,13 +44,13 @@
         },
         {
             "name": "RetroPie",
-            "value": 1.06,
-            "label": "1.06%"
+            "value": 1.05,
+            "label": "1.05%"
         },
         {
             "name": "Mainsail OS",
-            "value": 1.05,
-            "label": "1.05%"
+            "value": 1.04,
+            "label": "1.04%"
         }
     ]
 }
