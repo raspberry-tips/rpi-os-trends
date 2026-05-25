@@ -1,56 +1,56 @@
 {
-    "last_updated": "18.05.2026 18:35",
+    "last_updated": "25.05.2026 03:37",
     "source": "https://rpi-imager-stats.raspberrypi.com/",
     "top_10": [
         {
             "name": "Raspberry Pi OS (other)",
-            "value": 24.8,
-            "label": "24.80%"
+            "value": 26.14,
+            "label": "26.14%"
         },
         {
             "name": "Ubuntu",
-            "value": 8.08,
-            "label": "8.08%"
+            "value": 7.72,
+            "label": "7.72%"
         },
         {
             "name": "Raspberry Pi OS (32-bit)",
-            "value": 6.64,
-            "label": "6.64%"
+            "value": 6.7,
+            "label": "6.70%"
         },
         {
             "name": "Home Assistant",
-            "value": 5.44,
-            "label": "5.44%"
+            "value": 4.09,
+            "label": "4.09%"
         },
         {
             "name": "Raspberry Pi OS (Legacy, 32-bit)",
-            "value": 1.91,
-            "label": "1.91%"
+            "value": 2.45,
+            "label": "2.45%"
         },
         {
             "name": "Recalbox",
-            "value": 1.53,
-            "label": "1.53%"
-        },
-        {
-            "name": "Bootloader (Pi 5 family)",
-            "value": 1.53,
-            "label": "1.53%"
-        },
-        {
-            "name": "Bootloader (Pi 4 family)",
-            "value": 1.45,
-            "label": "1.45%"
+            "value": 1.94,
+            "label": "1.94%"
         },
         {
             "name": "RetroPie",
-            "value": 1.05,
-            "label": "1.05%"
+            "value": 1.69,
+            "label": "1.69%"
         },
         {
             "name": "Mainsail OS",
-            "value": 1.04,
-            "label": "1.04%"
+            "value": 1.52,
+            "label": "1.52%"
+        },
+        {
+            "name": "Bootloader (Pi 4 family)",
+            "value": 1.43,
+            "label": "1.43%"
+        },
+        {
+            "name": "OctoPi",
+            "value": 1.39,
+            "label": "1.39%"
         }
     ]
 }
