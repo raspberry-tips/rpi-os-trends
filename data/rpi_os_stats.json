@@ -1,31 +1,31 @@
 {
-    "last_updated": "25.05.2026 03:37",
+    "last_updated": "01.06.2026 03:52",
     "source": "https://rpi-imager-stats.raspberrypi.com/",
     "top_10": [
         {
             "name": "Raspberry Pi OS (other)",
-            "value": 26.14,
-            "label": "26.14%"
+            "value": 24.41,
+            "label": "24.41%"
         },
         {
             "name": "Ubuntu",
-            "value": 7.72,
-            "label": "7.72%"
+            "value": 9.28,
+            "label": "9.28%"
         },
         {
             "name": "Raspberry Pi OS (32-bit)",
-            "value": 6.7,
-            "label": "6.70%"
+            "value": 5.69,
+            "label": "5.69%"
         },
         {
             "name": "Home Assistant",
-            "value": 4.09,
-            "label": "4.09%"
+            "value": 4.08,
+            "label": "4.08%"
         },
         {
             "name": "Raspberry Pi OS (Legacy, 32-bit)",
-            "value": 2.45,
-            "label": "2.45%"
+            "value": 2.47,
+            "label": "2.47%"
         },
         {
             "name": "Recalbox",
@@ -33,24 +33,24 @@
             "label": "1.94%"
         },
         {
-            "name": "RetroPie",
-            "value": 1.69,
-            "label": "1.69%"
+            "name": "OctoPi",
+            "value": 1.94,
+            "label": "1.94%"
         },
         {
-            "name": "Mainsail OS",
-            "value": 1.52,
-            "label": "1.52%"
+            "name": "Bootloader (Pi 5 family)",
+            "value": 1.86,
+            "label": "1.86%"
         },
         {
             "name": "Bootloader (Pi 4 family)",
-            "value": 1.43,
-            "label": "1.43%"
+            "value": 1.77,
+            "label": "1.77%"
         },
         {
-            "name": "OctoPi",
-            "value": 1.39,
-            "label": "1.39%"
+            "name": "DietPi",
+            "value": 1.44,
+            "label": "1.44%"
         }
     ]
 }
