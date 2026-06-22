@@ -1,56 +1,56 @@
 {
-    "last_updated": "15.06.2026 04:04",
+    "last_updated": "22.06.2026 04:01",
     "source": "https://rpi-imager-stats.raspberrypi.com/",
     "top_10": [
         {
             "name": "Raspberry Pi OS (other)",
-            "value": 24.41,
-            "label": "24.41%"
-        },
-        {
-            "name": "Ubuntu",
-            "value": 6.74,
-            "label": "6.74%"
+            "value": 22.88,
+            "label": "22.88%"
         },
         {
             "name": "Raspberry Pi OS (32-bit)",
-            "value": 6.34,
-            "label": "6.34%"
+            "value": 8.26,
+            "label": "8.26%"
+        },
+        {
+            "name": "Ubuntu",
+            "value": 6.84,
+            "label": "6.84%"
         },
         {
             "name": "Home Assistant",
-            "value": 4.24,
-            "label": "4.24%"
-        },
-        {
-            "name": "Raspberry Pi OS (Legacy, 32-bit)",
-            "value": 2.69,
-            "label": "2.69%"
+            "value": 3.4,
+            "label": "3.40%"
         },
         {
             "name": "Recalbox",
-            "value": 1.9,
-            "label": "1.90%"
+            "value": 1.87,
+            "label": "1.87%"
         },
         {
             "name": "RetroPie",
-            "value": 1.55,
-            "label": "1.55%"
+            "value": 1.42,
+            "label": "1.42%"
         },
         {
-            "name": "OctoPi",
-            "value": 1.31,
-            "label": "1.31%"
+            "name": "Bootloader (Pi 4 family)",
+            "value": 1.42,
+            "label": "1.42%"
+        },
+        {
+            "name": "Raspberry Pi OS (Legacy, 32-bit)",
+            "value": 1.38,
+            "label": "1.38%"
         },
         {
             "name": "LibreELEC",
-            "value": 1.31,
-            "label": "1.31%"
+            "value": 1.16,
+            "label": "1.16%"
         },
         {
-            "name": "Bootloader (Pi 5 family)",
-            "value": 1.03,
-            "label": "1.03%"
+            "name": "OctoPi",
+            "value": 1.08,
+            "label": "1.08%"
         }
     ]
 }
