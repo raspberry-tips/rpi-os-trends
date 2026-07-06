@@ -1,56 +1,56 @@
 {
-    "last_updated": "29.06.2026 03:41",
+    "last_updated": "06.07.2026 03:19",
     "source": "https://rpi-imager-stats.raspberrypi.com/",
     "top_10": [
         {
             "name": "Raspberry Pi OS (other)",
-            "value": 24.21,
-            "label": "24.21%"
+            "value": 21.36,
+            "label": "21.36%"
         },
         {
             "name": "Ubuntu",
-            "value": 8.51,
-            "label": "8.51%"
+            "value": 9.43,
+            "label": "9.43%"
         },
         {
             "name": "Raspberry Pi OS (32-bit)",
-            "value": 7.23,
-            "label": "7.23%"
+            "value": 5.77,
+            "label": "5.77%"
         },
         {
             "name": "Home Assistant",
-            "value": 4.09,
-            "label": "4.09%"
-        },
-        {
-            "name": "Recalbox",
-            "value": 2.04,
-            "label": "2.04%"
+            "value": 4.52,
+            "label": "4.52%"
         },
         {
             "name": "Raspberry Pi OS (Legacy, 32-bit)",
-            "value": 1.62,
-            "label": "1.62%"
+            "value": 2.5,
+            "label": "2.50%"
         },
         {
-            "name": "Bootloader (Pi 4 family)",
-            "value": 1.45,
-            "label": "1.45%"
-        },
-        {
-            "name": "OctoPi",
-            "value": 1.15,
-            "label": "1.15%"
+            "name": "Recalbox",
+            "value": 1.97,
+            "label": "1.97%"
         },
         {
             "name": "RetroPie",
-            "value": 1.11,
-            "label": "1.11%"
+            "value": 1.92,
+            "label": "1.92%"
         },
         {
             "name": "Bootloader (Pi 5 family)",
-            "value": 1.06,
-            "label": "1.06%"
+            "value": 1.78,
+            "label": "1.78%"
+        },
+        {
+            "name": "DietPi",
+            "value": 1.2,
+            "label": "1.20%"
+        },
+        {
+            "name": "OctoPi",
+            "value": 0.96,
+            "label": "0.96%"
         }
     ]
 }
