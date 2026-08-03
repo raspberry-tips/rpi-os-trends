@@ -1,56 +1,56 @@
 {
-    "last_updated": "27.07.2026 02:41",
+    "last_updated": "03.08.2026 02:35",
     "source": "https://rpi-imager-stats.raspberrypi.com/",
     "top_10": [
         {
             "name": "Raspberry Pi OS (other)",
-            "value": 23.87,
-            "label": "23.87%"
-        },
-        {
-            "name": "Raspberry Pi OS (32-bit)",
-            "value": 7.7,
-            "label": "7.70%"
+            "value": 22.96,
+            "label": "22.96%"
         },
         {
             "name": "Ubuntu",
-            "value": 7.22,
-            "label": "7.22%"
+            "value": 6.5,
+            "label": "6.50%"
+        },
+        {
+            "name": "Raspberry Pi OS (32-bit)",
+            "value": 4.57,
+            "label": "4.57%"
         },
         {
             "name": "Home Assistant",
-            "value": 4.0,
-            "label": "4.00%"
-        },
-        {
-            "name": "Recalbox",
-            "value": 1.91,
-            "label": "1.91%"
+            "value": 4.31,
+            "label": "4.31%"
         },
         {
             "name": "Raspberry Pi OS (Legacy, 32-bit)",
-            "value": 1.79,
-            "label": "1.79%"
-        },
-        {
-            "name": "Bootloader (Pi 4 family)",
-            "value": 1.55,
-            "label": "1.55%"
-        },
-        {
-            "name": "OctoPi",
-            "value": 1.37,
-            "label": "1.37%"
+            "value": 3.34,
+            "label": "3.34%"
         },
         {
             "name": "RetroPie",
-            "value": 1.19,
-            "label": "1.19%"
+            "value": 2.77,
+            "label": "2.77%"
         },
         {
-            "name": "Alpine Linux",
-            "value": 1.13,
-            "label": "1.13%"
+            "name": "Bootloader (Pi 5 family)",
+            "value": 2.7,
+            "label": "2.70%"
+        },
+        {
+            "name": "Recalbox",
+            "value": 2.19,
+            "label": "2.19%"
+        },
+        {
+            "name": "Bootloader (Pi 4 family)",
+            "value": 1.67,
+            "label": "1.67%"
+        },
+        {
+            "name": "OctoPi",
+            "value": 1.48,
+            "label": "1.48%"
         }
     ]
 }
