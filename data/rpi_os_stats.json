@@ -1,56 +1,56 @@
 {
-    "last_updated": "03.08.2026 02:35",
+    "last_updated": "10.08.2026 01:36",
     "source": "https://rpi-imager-stats.raspberrypi.com/",
     "top_10": [
         {
             "name": "Raspberry Pi OS (other)",
-            "value": 22.96,
-            "label": "22.96%"
-        },
-        {
-            "name": "Ubuntu",
-            "value": 6.5,
-            "label": "6.50%"
+            "value": 27.97,
+            "label": "27.97%"
         },
         {
             "name": "Raspberry Pi OS (32-bit)",
-            "value": 4.57,
-            "label": "4.57%"
+            "value": 5.03,
+            "label": "5.03%"
+        },
+        {
+            "name": "Ubuntu",
+            "value": 4.83,
+            "label": "4.83%"
         },
         {
             "name": "Home Assistant",
-            "value": 4.31,
-            "label": "4.31%"
-        },
-        {
-            "name": "Raspberry Pi OS (Legacy, 32-bit)",
-            "value": 3.34,
-            "label": "3.34%"
-        },
-        {
-            "name": "RetroPie",
-            "value": 2.77,
-            "label": "2.77%"
-        },
-        {
-            "name": "Bootloader (Pi 5 family)",
-            "value": 2.7,
-            "label": "2.70%"
+            "value": 4.33,
+            "label": "4.33%"
         },
         {
             "name": "Recalbox",
-            "value": 2.19,
-            "label": "2.19%"
+            "value": 2.82,
+            "label": "2.82%"
+        },
+        {
+            "name": "Bootloader (Pi 5 family)",
+            "value": 2.62,
+            "label": "2.62%"
         },
         {
             "name": "Bootloader (Pi 4 family)",
-            "value": 1.67,
-            "label": "1.67%"
+            "value": 2.31,
+            "label": "2.31%"
         },
         {
-            "name": "OctoPi",
-            "value": 1.48,
-            "label": "1.48%"
+            "name": "RetroPie",
+            "value": 1.61,
+            "label": "1.61%"
+        },
+        {
+            "name": "LibreELEC",
+            "value": 1.21,
+            "label": "1.21%"
+        },
+        {
+            "name": "Raspberry Pi OS (Legacy, 32-bit)",
+            "value": 1.11,
+            "label": "1.11%"
         }
     ]
 }
