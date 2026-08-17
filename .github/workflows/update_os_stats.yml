@@ -2,14 +2,14 @@ name: Update RPi OS Stats
 
 on:
   schedule:
-    - cron: '0 0 * * 1' # Jeden Montag um 00:00 UTC
-  workflow_dispatch:   # Erlaubt manuelles Starten über das GitHub-UI
+    - cron: '0 4 * * 1' # Jeden Montag um 04:00 UTC
+  workflow_dispatch:
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Erforderlich zum Pushen der Änderungen
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -18,19 +18,27 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+          cache: 'pip'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml
+          pip install -r requirements.txt
+
+      - name: Selbsttest des Parsers
+        run: python scripts/test_parser.py
 
       - name: Run Fetch Script
+        working-directory: ${{ github.workspace }}
+        env:
+          PYTHONPATH: scripts
         run: python scripts/fetch_rpi_os_stats.py
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "actions@github.com"
-          git add data/rpi_os_stats.json
-          git commit -m "🤖 Automatische Aktualisierung der RPi OS Statistiken" || echo "Keine Änderungen zum Committen"
+          git add data/rpi_os_stats.json data/history.json
+          git diff --staged --quiet && echo "Keine Änderungen zum Committen" && exit 0
+          git commit -m "Automatische Aktualisierung der RPi OS Statistiken"
           git push
