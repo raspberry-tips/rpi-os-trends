@@ -1,57 +1,57 @@
 {
-    "last_updated": "14.09.2026 09:40",
-    "last_updated_iso": "2026-09-14T09:40:20+00:00",
+    "last_updated": "21.09.2026 09:44",
+    "last_updated_iso": "2026-09-21T09:44:41+00:00",
     "source": "https://rpi-imager-stats.raspberrypi.com/",
     "top_10": [
         {
             "name": "Raspberry Pi OS (64-bit)",
-            "value": 41.11,
-            "label": "41.11%"
+            "value": 45.41,
+            "label": "45.41%"
         },
         {
             "name": "Raspberry Pi OS (other)",
-            "value": 23.11,
-            "label": "23.11%"
+            "value": 24.19,
+            "label": "24.19%"
         },
         {
             "name": "Ubuntu",
-            "value": 8.4,
-            "label": "8.40%"
+            "value": 7.28,
+            "label": "7.28%"
         },
         {
             "name": "Raspberry Pi OS (32-bit)",
-            "value": 6.31,
-            "label": "6.31%"
+            "value": 5.42,
+            "label": "5.42%"
         },
         {
             "name": "Home Assistant",
-            "value": 4.77,
-            "label": "4.77%"
+            "value": 4.3,
+            "label": "4.30%"
         },
         {
             "name": "Raspberry Pi OS (Legacy, 32-bit)",
-            "value": 1.85,
-            "label": "1.85%"
-        },
-        {
-            "name": "RetroPie",
-            "value": 1.7,
-            "label": "1.70%"
+            "value": 1.94,
+            "label": "1.94%"
         },
         {
             "name": "Recalbox",
-            "value": 1.52,
-            "label": "1.52%"
+            "value": 1.39,
+            "label": "1.39%"
         },
         {
             "name": "Bootloader (Pi 4 family)",
-            "value": 1.5,
-            "label": "1.50%"
+            "value": 1.26,
+            "label": "1.26%"
         },
         {
-            "name": "Bootloader (Pi 5 family)",
-            "value": 1.35,
-            "label": "1.35%"
+            "name": "RetroPie",
+            "value": 0.89,
+            "label": "0.89%"
+        },
+        {
+            "name": "OctoPi",
+            "value": 0.87,
+            "label": "0.87%"
         }
     ],
     "snapshot": {
@@ -59,398 +59,126 @@
             "today": [
                 {
                     "name": "Raspberry Pi OS (64-bit)",
-                    "value": 41.11,
-                    "label": "41.11%"
+                    "value": 45.41,
+                    "label": "45.41%"
                 },
                 {
                     "name": "Raspberry Pi OS (other)",
-                    "value": 23.11,
-                    "label": "23.11%"
+                    "value": 24.19,
+                    "label": "24.19%"
                 },
                 {
                     "name": "Ubuntu",
-                    "value": 8.4,
-                    "label": "8.40%"
+                    "value": 7.28,
+                    "label": "7.28%"
                 },
                 {
                     "name": "Raspberry Pi OS (32-bit)",
-                    "value": 6.31,
-                    "label": "6.31%"
+                    "value": 5.42,
+                    "label": "5.42%"
                 },
                 {
                     "name": "Home Assistant",
-                    "value": 4.77,
-                    "label": "4.77%"
+                    "value": 4.3,
+                    "label": "4.30%"
                 },
                 {
                     "name": "Raspberry Pi OS (Legacy, 32-bit)",
-                    "value": 1.85,
-                    "label": "1.85%"
-                },
-                {
-                    "name": "RetroPie",
-                    "value": 1.7,
-                    "label": "1.70%"
+                    "value": 1.94,
+                    "label": "1.94%"
                 },
                 {
                     "name": "Recalbox",
-                    "value": 1.52,
-                    "label": "1.52%"
+                    "value": 1.39,
+                    "label": "1.39%"
                 },
                 {
                     "name": "Bootloader (Pi 4 family)",
-                    "value": 1.5,
-                    "label": "1.50%"
+                    "value": 1.26,
+                    "label": "1.26%"
                 },
                 {
-                    "name": "Bootloader (Pi 5 family)",
-                    "value": 1.35,
-                    "label": "1.35%"
+                    "name": "RetroPie",
+                    "value": 0.89,
+                    "label": "0.89%"
                 },
                 {
                     "name": "OctoPi",
-                    "value": 1.0,
-                    "label": "1.00%"
-                },
-                {
-                    "name": "Kali Linux",
-                    "value": 0.86,
-                    "label": "0.86%"
-                },
-                {
-                    "name": "DietPi",
-                    "value": 0.79,
-                    "label": "0.79%"
-                },
-                {
-                    "name": "moOde audio player",
-                    "value": 0.68,
-                    "label": "0.68%"
-                },
-                {
-                    "name": "Mainsail OS",
-                    "value": 0.64,
-                    "label": "0.64%"
+                    "value": 0.87,
+                    "label": "0.87%"
                 },
                 {
                     "name": "LibreELEC",
-                    "value": 0.57,
-                    "label": "0.57%"
+                    "value": 0.83,
+                    "label": "0.83%"
                 },
                 {
-                    "name": "Android by emteria",
+                    "name": "DietPi",
+                    "value": 0.77,
+                    "label": "0.77%"
+                },
+                {
+                    "name": "Bootloader (Pi 5 family)",
+                    "value": 0.76,
+                    "label": "0.76%"
+                },
+                {
+                    "name": "Mainsail OS",
+                    "value": 0.61,
+                    "label": "0.61%"
+                },
+                {
+                    "name": "Kali Linux",
                     "value": 0.55,
                     "label": "0.55%"
                 },
                 {
-                    "name": "Volumio",
-                    "value": 0.46,
-                    "label": "0.46%"
+                    "name": "moOde audio player",
+                    "value": 0.36,
+                    "label": "0.36%"
                 },
                 {
-                    "name": "Armbian OS",
-                    "value": 0.43,
-                    "label": "0.43%"
+                    "name": "Volumio",
+                    "value": 0.29,
+                    "label": "0.29%"
                 },
                 {
                     "name": "PINN",
-                    "value": 0.31,
-                    "label": "0.31%"
-                },
-                {
-                    "name": "piCorePlayer",
-                    "value": 0.23,
-                    "label": "0.23%"
-                },
-                {
-                    "name": "Alpine Linux",
-                    "value": 0.23,
-                    "label": "0.23%"
+                    "value": 0.24,
+                    "label": "0.24%"
                 },
                 {
                     "name": "Homebridge",
+                    "value": 0.24,
+                    "label": "0.24%"
+                },
+                {
+                    "name": "ADS-B Feeder Image",
+                    "value": 0.23,
+                    "label": "0.23%"
+                },
+                {
+                    "name": "piCorePlayer",
                     "value": 0.21,
                     "label": "0.21%"
                 },
                 {
-                    "name": "SimplyPrint - 3D print anywhere, smarter",
-                    "value": 0.14,
-                    "label": "0.14%"
-                },
-                {
-                    "name": "FullPageOS",
-                    "value": 0.14,
-                    "label": "0.14%"
-                },
-                {
-                    "name": "OctoKlipperPi",
-                    "value": 0.13,
-                    "label": "0.13%"
-                },
-                {
-                    "name": "Anthias",
-                    "value": 0.1,
-                    "label": "0.10%"
-                },
-                {
-                    "name": "Ultramarine Linux",
-                    "value": 0.09,
-                    "label": "0.09%"
-                },
-                {
-                    "name": "openHAB",
-                    "value": 0.07,
-                    "label": "0.07%"
-                },
-                {
-                    "name": "OpenCCU",
-                    "value": 0.07,
-                    "label": "0.07%"
-                },
-                {
-                    "name": "OSMC",
-                    "value": 0.07,
-                    "label": "0.07%"
-                },
-                {
-                    "name": "Falcon Player (FPP)",
-                    "value": 0.07,
-                    "label": "0.07%"
-                },
-                {
-                    "name": "Bass ARM (Android)",
-                    "value": 0.07,
-                    "label": "0.07%"
-                },
-                {
-                    "name": "ADS-B Feeder Image",
-                    "value": 0.07,
-                    "label": "0.07%"
-                },
-                {
-                    "name": "RISC OS Pi",
-                    "value": 0.05,
-                    "label": "0.05%"
-                },
-                {
-                    "name": "DAKboard",
-                    "value": 0.05,
-                    "label": "0.05%"
-                },
-                {
-                    "name": "evcc",
-                    "value": 0.04,
-                    "label": "0.04%"
-                },
-                {
-                    "name": "MoodleBox",
-                    "value": 0.04,
-                    "label": "0.04%"
-                },
-                {
-                    "name": "eBlockerOS",
-                    "value": 0.03,
-                    "label": "0.03%"
-                },
-                {
-                    "name": "Screenly Digital Signage",
-                    "value": 0.03,
-                    "label": "0.03%"
-                },
-                {
-                    "name": "RaspAP",
-                    "value": 0.03,
-                    "label": "0.03%"
-                },
-                {
-                    "name": "Homey Self-Hosted Server",
-                    "value": 0.03,
-                    "label": "0.03%"
-                },
-                {
-                    "name": "nymea",
-                    "value": 0.01,
-                    "label": "0.01%"
-                },
-                {
-                    "name": "info-beamer digital signage",
-                    "value": 0.01,
-                    "label": "0.01%"
-                },
-                {
-                    "name": "Yodeck Digital Signage",
-                    "value": 0.01,
-                    "label": "0.01%"
-                },
-                {
-                    "name": "SatNOGS",
-                    "value": 0.01,
-                    "label": "0.01%"
-                },
-                {
-                    "name": "PrintWatch OS",
-                    "value": 0.01,
-                    "label": "0.01%"
-                },
-                {
-                    "name": "Misc utility images",
-                    "value": 0.01,
-                    "label": "0.01%"
-                },
-                {
-                    "name": "Gladys Assistant",
-                    "value": 0.01,
-                    "label": "0.01%"
-                },
-                {
-                    "name": "Apertis (daily build)",
-                    "value": 0.01,
-                    "label": "0.01%"
-                },
-                {
-                    "name": "Apertis",
-                    "value": 0.01,
-                    "label": "0.01%"
-                }
-            ],
-            "week": [
-                {
-                    "name": "Raspberry Pi OS (64-bit)",
-                    "value": 38.79,
-                    "label": "38.79%"
-                },
-                {
-                    "name": "Raspberry Pi OS (other)",
-                    "value": 25.37,
-                    "label": "25.37%"
-                },
-                {
-                    "name": "Raspberry Pi OS (32-bit)",
-                    "value": 6.41,
-                    "label": "6.41%"
-                },
-                {
-                    "name": "Ubuntu",
-                    "value": 6.1,
-                    "label": "6.10%"
-                },
-                {
-                    "name": "Home Assistant",
-                    "value": 6.1,
-                    "label": "6.10%"
-                },
-                {
-                    "name": "Raspberry Pi OS (Legacy, 32-bit)",
-                    "value": 1.89,
-                    "label": "1.89%"
-                },
-                {
-                    "name": "Bootloader (Pi 4 family)",
-                    "value": 1.78,
-                    "label": "1.78%"
-                },
-                {
-                    "name": "Recalbox",
-                    "value": 1.64,
-                    "label": "1.64%"
-                },
-                {
-                    "name": "RetroPie",
-                    "value": 1.34,
-                    "label": "1.34%"
-                },
-                {
-                    "name": "Bootloader (Pi 5 family)",
-                    "value": 1.18,
-                    "label": "1.18%"
-                },
-                {
-                    "name": "OctoPi",
-                    "value": 1.08,
-                    "label": "1.08%"
-                },
-                {
-                    "name": "LibreELEC",
-                    "value": 0.97,
-                    "label": "0.97%"
-                },
-                {
-                    "name": "Mainsail OS",
-                    "value": 0.9,
-                    "label": "0.90%"
-                },
-                {
-                    "name": "DietPi",
-                    "value": 0.9,
-                    "label": "0.90%"
-                },
-                {
-                    "name": "moOde audio player",
-                    "value": 0.7,
-                    "label": "0.70%"
-                },
-                {
-                    "name": "Kali Linux",
-                    "value": 0.64,
-                    "label": "0.64%"
-                },
-                {
                     "name": "Armbian OS",
-                    "value": 0.42,
-                    "label": "0.42%"
-                },
-                {
-                    "name": "Volumio",
-                    "value": 0.38,
-                    "label": "0.38%"
-                },
-                {
-                    "name": "PINN",
-                    "value": 0.37,
-                    "label": "0.37%"
-                },
-                {
-                    "name": "Android by emteria",
-                    "value": 0.28,
-                    "label": "0.28%"
+                    "value": 0.21,
+                    "label": "0.21%"
                 },
                 {
                     "name": "Alpine Linux",
-                    "value": 0.27,
-                    "label": "0.27%"
-                },
-                {
-                    "name": "Homebridge",
-                    "value": 0.26,
-                    "label": "0.26%"
-                },
-                {
-                    "name": "piCorePlayer",
-                    "value": 0.22,
-                    "label": "0.22%"
-                },
-                {
-                    "name": "DAKboard",
                     "value": 0.2,
                     "label": "0.20%"
                 },
                 {
-                    "name": "OSMC",
-                    "value": 0.19,
-                    "label": "0.19%"
-                },
-                {
-                    "name": "FullPageOS",
-                    "value": 0.17,
-                    "label": "0.17%"
-                },
-                {
                     "name": "Anthias",
                     "value": 0.14,
                     "label": "0.14%"
                 },
                 {
-                    "name": "Falcon Player (FPP)",
+                    "name": "Android by emteria",
                     "value": 0.14,
                     "label": "0.14%"
                 },
@@ -460,22 +188,294 @@
                     "label": "0.12%"
                 },
                 {
-                    "name": "evcc",
+                    "name": "FullPageOS",
+                    "value": 0.12,
+                    "label": "0.12%"
+                },
+                {
+                    "name": "OpenCCU",
                     "value": 0.11,
                     "label": "0.11%"
                 },
                 {
-                    "name": "OctoKlipperPi",
+                    "name": "Homey Self-Hosted Server",
+                    "value": 0.1,
+                    "label": "0.10%"
+                },
+                {
+                    "name": "Gladys Assistant",
                     "value": 0.09,
                     "label": "0.09%"
+                },
+                {
+                    "name": "OctoKlipperPi",
+                    "value": 0.08,
+                    "label": "0.08%"
+                },
+                {
+                    "name": "Falcon Player (FPP)",
+                    "value": 0.08,
+                    "label": "0.08%"
+                },
+                {
+                    "name": "DAKboard",
+                    "value": 0.08,
+                    "label": "0.08%"
+                },
+                {
+                    "name": "Yodeck Digital Signage",
+                    "value": 0.07,
+                    "label": "0.07%"
+                },
+                {
+                    "name": "OSMC",
+                    "value": 0.07,
+                    "label": "0.07%"
+                },
+                {
+                    "name": "evcc",
+                    "value": 0.04,
+                    "label": "0.04%"
+                },
+                {
+                    "name": "SimplyPrint - 3D print anywhere, smarter",
+                    "value": 0.04,
+                    "label": "0.04%"
+                },
+                {
+                    "name": "RISC OS Pi",
+                    "value": 0.04,
+                    "label": "0.04%"
+                },
+                {
+                    "name": "eBlockerOS",
+                    "value": 0.03,
+                    "label": "0.03%"
+                },
+                {
+                    "name": "Ultramarine Linux",
+                    "value": 0.03,
+                    "label": "0.03%"
+                },
+                {
+                    "name": "Apertis",
+                    "value": 0.03,
+                    "label": "0.03%"
+                },
+                {
+                    "name": "Repetier-Server",
+                    "value": 0.02,
+                    "label": "0.02%"
                 },
                 {
                     "name": "Bass ARM (Android)",
-                    "value": 0.09,
-                    "label": "0.09%"
+                    "value": 0.02,
+                    "label": "0.02%"
+                },
+                {
+                    "name": "piCorePlayer Previous Release",
+                    "value": 0.01,
+                    "label": "0.01%"
+                },
+                {
+                    "name": "XOGO Digital Signage",
+                    "value": 0.01,
+                    "label": "0.01%"
+                },
+                {
+                    "name": "VEX Tournament Manager",
+                    "value": 0.01,
+                    "label": "0.01%"
+                },
+                {
+                    "name": "TLXOS",
+                    "value": 0.01,
+                    "label": "0.01%"
+                },
+                {
+                    "name": "Screenly Digital Signage",
+                    "value": 0.01,
+                    "label": "0.01%"
+                },
+                {
+                    "name": "SatNOGS",
+                    "value": 0.01,
+                    "label": "0.01%"
+                },
+                {
+                    "name": "OpenCCU Nightly Snapshots",
+                    "value": 0.01,
+                    "label": "0.01%"
+                },
+                {
+                    "name": "Misc utility images",
+                    "value": 0.01,
+                    "label": "0.01%"
+                }
+            ],
+            "week": [
+                {
+                    "name": "Raspberry Pi OS (64-bit)",
+                    "value": 40.76,
+                    "label": "40.76%"
+                },
+                {
+                    "name": "Raspberry Pi OS (other)",
+                    "value": 25.86,
+                    "label": "25.86%"
+                },
+                {
+                    "name": "Raspberry Pi OS (32-bit)",
+                    "value": 5.96,
+                    "label": "5.96%"
+                },
+                {
+                    "name": "Home Assistant",
+                    "value": 5.94,
+                    "label": "5.94%"
+                },
+                {
+                    "name": "Ubuntu",
+                    "value": 5.71,
+                    "label": "5.71%"
+                },
+                {
+                    "name": "Raspberry Pi OS (Legacy, 32-bit)",
+                    "value": 1.75,
+                    "label": "1.75%"
+                },
+                {
+                    "name": "Recalbox",
+                    "value": 1.64,
+                    "label": "1.64%"
+                },
+                {
+                    "name": "Bootloader (Pi 4 family)",
+                    "value": 1.59,
+                    "label": "1.59%"
+                },
+                {
+                    "name": "RetroPie",
+                    "value": 1.25,
+                    "label": "1.25%"
+                },
+                {
+                    "name": "Bootloader (Pi 5 family)",
+                    "value": 1.06,
+                    "label": "1.06%"
+                },
+                {
+                    "name": "OctoPi",
+                    "value": 0.95,
+                    "label": "0.95%"
+                },
+                {
+                    "name": "LibreELEC",
+                    "value": 0.92,
+                    "label": "0.92%"
+                },
+                {
+                    "name": "DietPi",
+                    "value": 0.88,
+                    "label": "0.88%"
+                },
+                {
+                    "name": "Mainsail OS",
+                    "value": 0.69,
+                    "label": "0.69%"
+                },
+                {
+                    "name": "Kali Linux",
+                    "value": 0.62,
+                    "label": "0.62%"
+                },
+                {
+                    "name": "moOde audio player",
+                    "value": 0.51,
+                    "label": "0.51%"
+                },
+                {
+                    "name": "Armbian OS",
+                    "value": 0.4,
+                    "label": "0.40%"
+                },
+                {
+                    "name": "Volumio",
+                    "value": 0.34,
+                    "label": "0.34%"
+                },
+                {
+                    "name": "PINN",
+                    "value": 0.32,
+                    "label": "0.32%"
+                },
+                {
+                    "name": "Android by emteria",
+                    "value": 0.27,
+                    "label": "0.27%"
+                },
+                {
+                    "name": "Alpine Linux",
+                    "value": 0.25,
+                    "label": "0.25%"
+                },
+                {
+                    "name": "Homebridge",
+                    "value": 0.24,
+                    "label": "0.24%"
+                },
+                {
+                    "name": "piCorePlayer",
+                    "value": 0.22,
+                    "label": "0.22%"
+                },
+                {
+                    "name": "FullPageOS",
+                    "value": 0.17,
+                    "label": "0.17%"
+                },
+                {
+                    "name": "Anthias",
+                    "value": 0.17,
+                    "label": "0.17%"
+                },
+                {
+                    "name": "DAKboard",
+                    "value": 0.16,
+                    "label": "0.16%"
+                },
+                {
+                    "name": "OSMC",
+                    "value": 0.15,
+                    "label": "0.15%"
                 },
                 {
                     "name": "OpenCCU",
+                    "value": 0.13,
+                    "label": "0.13%"
+                },
+                {
+                    "name": "Falcon Player (FPP)",
+                    "value": 0.12,
+                    "label": "0.12%"
+                },
+                {
+                    "name": "RaspAP",
+                    "value": 0.11,
+                    "label": "0.11%"
+                },
+                {
+                    "name": "Bass ARM (Android)",
+                    "value": 0.1,
+                    "label": "0.10%"
+                },
+                {
+                    "name": "evcc",
+                    "value": 0.1,
+                    "label": "0.10%"
+                },
+                {
+                    "name": "OctoKlipperPi",
                     "value": 0.09,
                     "label": "0.09%"
                 },
@@ -486,23 +486,23 @@
                 },
                 {
                     "name": "Ultramarine Linux",
-                    "value": 0.08,
-                    "label": "0.08%"
+                    "value": 0.06,
+                    "label": "0.06%"
                 },
                 {
                     "name": "openHAB",
-                    "value": 0.07,
-                    "label": "0.07%"
-                },
-                {
-                    "name": "Gladys Assistant",
-                    "value": 0.07,
-                    "label": "0.07%"
+                    "value": 0.05,
+                    "label": "0.05%"
                 },
                 {
                     "name": "ADS-B Feeder Image",
-                    "value": 0.06,
-                    "label": "0.06%"
+                    "value": 0.05,
+                    "label": "0.05%"
+                },
+                {
+                    "name": "SimplyPrint - 3D print anywhere, smarter",
+                    "value": 0.05,
+                    "label": "0.05%"
                 },
                 {
                     "name": "Yodeck Digital Signage",
@@ -510,7 +510,7 @@
                     "label": "0.04%"
                 },
                 {
-                    "name": "SimplyPrint - 3D print anywhere, smarter",
+                    "name": "FreedomBox",
                     "value": 0.04,
                     "label": "0.04%"
                 },
@@ -520,12 +520,12 @@
                     "label": "0.04%"
                 },
                 {
-                    "name": "eBlockerOS",
+                    "name": "Gladys Assistant",
                     "value": 0.03,
                     "label": "0.03%"
                 },
                 {
-                    "name": "FreedomBox",
+                    "name": "eBlockerOS",
                     "value": 0.03,
                     "label": "0.03%"
                 },
@@ -535,17 +535,12 @@
                     "label": "0.02%"
                 },
                 {
-                    "name": "MoodleBox",
-                    "value": 0.02,
-                    "label": "0.02%"
-                },
-                {
                     "name": "LoLaOS",
                     "value": 0.02,
                     "label": "0.02%"
                 },
                 {
-                    "name": "Screenly Digital Signage",
+                    "name": "Repetier-Server",
                     "value": 0.02,
                     "label": "0.02%"
                 },
@@ -555,17 +550,22 @@
                     "label": "0.01%"
                 },
                 {
-                    "name": "nymea",
+                    "name": "info-beamer digital signage",
                     "value": 0.01,
                     "label": "0.01%"
                 },
                 {
-                    "name": "Misc utility images",
+                    "name": "TLXOS",
                     "value": 0.01,
                     "label": "0.01%"
                 },
                 {
-                    "name": "Repetier-Server",
+                    "name": "MoodleBox",
+                    "value": 0.01,
+                    "label": "0.01%"
+                },
+                {
+                    "name": "VEX Tournament Manager",
                     "value": 0.01,
                     "label": "0.01%"
                 }
@@ -573,148 +573,148 @@
             "month": [
                 {
                     "name": "Raspberry Pi OS (64-bit)",
-                    "value": 37.23,
-                    "label": "37.23%"
+                    "value": 38.3,
+                    "label": "38.30%"
                 },
                 {
                     "name": "Raspberry Pi OS (other)",
-                    "value": 25.8,
-                    "label": "25.80%"
+                    "value": 25.77,
+                    "label": "25.77%"
                 },
                 {
                     "name": "Home Assistant",
-                    "value": 6.58,
-                    "label": "6.58%"
+                    "value": 6.36,
+                    "label": "6.36%"
                 },
                 {
                     "name": "Raspberry Pi OS (32-bit)",
-                    "value": 6.31,
-                    "label": "6.31%"
+                    "value": 6.23,
+                    "label": "6.23%"
                 },
                 {
                     "name": "Ubuntu",
-                    "value": 5.97,
-                    "label": "5.97%"
+                    "value": 5.89,
+                    "label": "5.89%"
                 },
                 {
                     "name": "Raspberry Pi OS (Legacy, 32-bit)",
-                    "value": 1.88,
-                    "label": "1.88%"
+                    "value": 1.85,
+                    "label": "1.85%"
                 },
                 {
                     "name": "Bootloader (Pi 4 family)",
-                    "value": 1.86,
-                    "label": "1.86%"
+                    "value": 1.79,
+                    "label": "1.79%"
                 },
                 {
                     "name": "Recalbox",
-                    "value": 1.82,
-                    "label": "1.82%"
+                    "value": 1.76,
+                    "label": "1.76%"
                 },
                 {
                     "name": "RetroPie",
-                    "value": 1.41,
-                    "label": "1.41%"
+                    "value": 1.37,
+                    "label": "1.37%"
                 },
                 {
                     "name": "Bootloader (Pi 5 family)",
-                    "value": 1.2,
-                    "label": "1.20%"
-                },
-                {
-                    "name": "OctoPi",
                     "value": 1.15,
                     "label": "1.15%"
                 },
                 {
-                    "name": "DietPi",
-                    "value": 0.99,
-                    "label": "0.99%"
+                    "name": "OctoPi",
+                    "value": 1.1,
+                    "label": "1.10%"
                 },
                 {
                     "name": "LibreELEC",
+                    "value": 0.96,
+                    "label": "0.96%"
+                },
+                {
+                    "name": "DietPi",
                     "value": 0.95,
                     "label": "0.95%"
                 },
                 {
                     "name": "Mainsail OS",
-                    "value": 0.88,
-                    "label": "0.88%"
+                    "value": 0.84,
+                    "label": "0.84%"
                 },
                 {
                     "name": "Kali Linux",
-                    "value": 0.73,
-                    "label": "0.73%"
+                    "value": 0.69,
+                    "label": "0.69%"
                 },
                 {
                     "name": "moOde audio player",
-                    "value": 0.68,
-                    "label": "0.68%"
+                    "value": 0.64,
+                    "label": "0.64%"
                 },
                 {
                     "name": "Armbian OS",
-                    "value": 0.45,
-                    "label": "0.45%"
+                    "value": 0.43,
+                    "label": "0.43%"
                 },
                 {
                     "name": "Volumio",
-                    "value": 0.39,
-                    "label": "0.39%"
+                    "value": 0.37,
+                    "label": "0.37%"
                 },
                 {
                     "name": "PINN",
-                    "value": 0.38,
-                    "label": "0.38%"
+                    "value": 0.36,
+                    "label": "0.36%"
                 },
                 {
                     "name": "Android by emteria",
-                    "value": 0.31,
-                    "label": "0.31%"
-                },
-                {
-                    "name": "Alpine Linux",
-                    "value": 0.3,
-                    "label": "0.30%"
-                },
-                {
-                    "name": "Homebridge",
                     "value": 0.29,
                     "label": "0.29%"
                 },
                 {
-                    "name": "DAKboard",
-                    "value": 0.23,
-                    "label": "0.23%"
+                    "name": "Alpine Linux",
+                    "value": 0.28,
+                    "label": "0.28%"
+                },
+                {
+                    "name": "Homebridge",
+                    "value": 0.28,
+                    "label": "0.28%"
                 },
                 {
                     "name": "piCorePlayer",
-                    "value": 0.23,
-                    "label": "0.23%"
-                },
-                {
-                    "name": "OSMC",
                     "value": 0.22,
                     "label": "0.22%"
                 },
                 {
-                    "name": "Anthias",
+                    "name": "DAKboard",
+                    "value": 0.21,
+                    "label": "0.21%"
+                },
+                {
+                    "name": "OSMC",
                     "value": 0.2,
                     "label": "0.20%"
                 },
                 {
                     "name": "FullPageOS",
-                    "value": 0.2,
-                    "label": "0.20%"
+                    "value": 0.19,
+                    "label": "0.19%"
+                },
+                {
+                    "name": "Anthias",
+                    "value": 0.18,
+                    "label": "0.18%"
                 },
                 {
                     "name": "RaspAP",
-                    "value": 0.17,
-                    "label": "0.17%"
+                    "value": 0.15,
+                    "label": "0.15%"
                 },
                 {
                     "name": "Falcon Player (FPP)",
-                    "value": 0.13,
-                    "label": "0.13%"
+                    "value": 0.14,
+                    "label": "0.14%"
                 },
                 {
                     "name": "Bass ARM (Android)",
@@ -723,43 +723,43 @@
                 },
                 {
                     "name": "evcc",
-                    "value": 0.11,
-                    "label": "0.11%"
+                    "value": 0.1,
+                    "label": "0.10%"
                 },
                 {
                     "name": "OpenCCU",
-                    "value": 0.09,
-                    "label": "0.09%"
-                },
-                {
-                    "name": "Ultramarine Linux",
-                    "value": 0.09,
-                    "label": "0.09%"
+                    "value": 0.1,
+                    "label": "0.10%"
                 },
                 {
                     "name": "RISC OS Pi",
-                    "value": 0.09,
-                    "label": "0.09%"
+                    "value": 0.08,
+                    "label": "0.08%"
                 },
                 {
                     "name": "OctoKlipperPi",
-                    "value": 0.09,
-                    "label": "0.09%"
+                    "value": 0.08,
+                    "label": "0.08%"
                 },
                 {
                     "name": "openHAB",
-                    "value": 0.09,
-                    "label": "0.09%"
+                    "value": 0.07,
+                    "label": "0.07%"
+                },
+                {
+                    "name": "Ultramarine Linux",
+                    "value": 0.07,
+                    "label": "0.07%"
                 },
                 {
                     "name": "ADS-B Feeder Image",
-                    "value": 0.06,
-                    "label": "0.06%"
+                    "value": 0.05,
+                    "label": "0.05%"
                 },
                 {
                     "name": "Gladys Assistant",
-                    "value": 0.05,
-                    "label": "0.05%"
+                    "value": 0.04,
+                    "label": "0.04%"
                 },
                 {
                     "name": "Homey Self-Hosted Server",
@@ -777,12 +777,12 @@
                     "label": "0.04%"
                 },
                 {
-                    "name": "eBlockerOS",
+                    "name": "FreedomBox",
                     "value": 0.03,
                     "label": "0.03%"
                 },
                 {
-                    "name": "FreedomBox",
+                    "name": "eBlockerOS",
                     "value": 0.03,
                     "label": "0.03%"
                 },
@@ -797,12 +797,12 @@
                     "label": "0.02%"
                 },
                 {
-                    "name": "Screenly Digital Signage",
+                    "name": "SatNOGS",
                     "value": 0.02,
                     "label": "0.02%"
                 },
                 {
-                    "name": "SatNOGS",
+                    "name": "Screenly Digital Signage",
                     "value": 0.02,
                     "label": "0.02%"
                 },
@@ -812,12 +812,12 @@
                     "label": "0.02%"
                 },
                 {
-                    "name": "Misc utility images",
+                    "name": "Repetier-Server",
                     "value": 0.01,
                     "label": "0.01%"
                 },
                 {
-                    "name": "Repetier-Server",
+                    "name": "Misc utility images",
                     "value": 0.01,
                     "label": "0.01%"
                 },
@@ -832,420 +832,415 @@
             "today": [
                 {
                     "name": "Raspberry Pi OS (64-bit)",
-                    "value": 42.13,
-                    "label": "42.13%"
+                    "value": 46.44,
+                    "label": "46.44%"
                 },
                 {
                     "name": "Raspberry Pi OS Lite (64-bit)",
-                    "value": 13.59,
-                    "label": "13.59%"
+                    "value": 15.49,
+                    "label": "15.49%"
                 },
                 {
                     "name": "Raspberry Pi OS (32-bit)",
-                    "value": 6.54,
-                    "label": "6.54%"
+                    "value": 5.58,
+                    "label": "5.58%"
                 },
                 {
                     "name": "Raspberry Pi OS Lite (32-bit)",
-                    "value": 4.28,
-                    "label": "4.28%"
+                    "value": 3.32,
+                    "label": "3.32%"
                 },
                 {
-                    "name": "Ubuntu Server 24.04.5 LTS (64-bit)",
-                    "value": 2.73,
-                    "label": "2.73%"
+                    "name": "Home Assistant OS 18.3 (RPi 4/400)",
+                    "value": 2.3,
+                    "label": "2.30%"
                 },
                 {
-                    "name": "Home Assistant OS 18.2 (RPi 4/400)",
-                    "value": 2.53,
-                    "label": "2.53%"
-                },
-                {
-                    "name": "SD Card Boot",
+                    "name": "Raspberry Pi OS (Legacy, 32-bit)",
                     "value": 2.0,
                     "label": "2.00%"
                 },
                 {
-                    "name": "Raspberry Pi OS (Legacy, 32-bit)",
-                    "value": 1.95,
-                    "label": "1.95%"
-                },
-                {
-                    "name": "Ubuntu Desktop 26.04.1 (64-bit)",
-                    "value": 1.93,
-                    "label": "1.93%"
+                    "name": "Ubuntu Server 24.04.5 LTS (64-bit)",
+                    "value": 1.82,
+                    "label": "1.82%"
                 },
                 {
                     "name": "Raspberry Pi OS (Legacy, 64-bit)",
-                    "value": 1.67,
-                    "label": "1.67%"
+                    "value": 1.54,
+                    "label": "1.54%"
+                },
+                {
+                    "name": "Ubuntu Desktop 24.04.5 LTS (64-bit)",
+                    "value": 1.43,
+                    "label": "1.43%"
+                },
+                {
+                    "name": "SD Card Boot",
+                    "value": 1.42,
+                    "label": "1.42%"
                 },
                 {
                     "name": "Ubuntu Server 26.04.1 (64-bit)",
-                    "value": 1.53,
-                    "label": "1.53%"
+                    "value": 1.29,
+                    "label": "1.29%"
                 },
                 {
-                    "name": "Home Assistant OS 18.2 (RPi 5)",
+                    "name": "Home Assistant OS 18.3 (RPi 5)",
+                    "value": 1.29,
+                    "label": "1.29%"
+                },
+                {
+                    "name": "Ubuntu Desktop 26.04.1 (64-bit)",
                     "value": 1.27,
                     "label": "1.27%"
                 },
                 {
-                    "name": "Ubuntu Desktop 24.04.5 LTS (64-bit)",
+                    "name": "Raspberry Pi OS Full (64-bit)",
                     "value": 1.25,
                     "label": "1.25%"
                 },
                 {
                     "name": "Raspberry Pi OS (Legacy, 64-bit) Lite",
-                    "value": 1.15,
-                    "label": "1.15%"
+                    "value": 1.1,
+                    "label": "1.10%"
                 },
                 {
                     "name": "Raspberry Pi OS (Legacy, 32-bit) Lite",
-                    "value": 1.09,
-                    "label": "1.09%"
-                },
-                {
-                    "name": "Home Assistant OS 18.2 (RPi 3)",
-                    "value": 1.08,
-                    "label": "1.08%"
-                },
-                {
-                    "name": "Raspberry Pi OS Full (64-bit)",
-                    "value": 1.03,
-                    "label": "1.03%"
-                },
-                {
-                    "name": "RetroPie 4.8 (RPI 2/3/Zero 2 W)",
-                    "value": 1.01,
-                    "label": "1.01%"
+                    "value": 0.96,
+                    "label": "0.96%"
                 },
                 {
                     "name": "OctoPi (stable)",
-                    "value": 0.97,
-                    "label": "0.97%"
+                    "value": 0.78,
+                    "label": "0.78%"
                 },
                 {
-                    "name": "moOde audio player 10.3.4 (64-bit Trixie)",
-                    "value": 0.69,
-                    "label": "0.69%"
-                },
-                {
-                    "name": "Recalbox - Raspberry Pi 3",
-                    "value": 0.65,
-                    "label": "0.65%"
+                    "name": "Home Assistant OS 18.3 (RPi 3)",
+                    "value": 0.77,
+                    "label": "0.77%"
                 },
                 {
                     "name": "DietPi OS (64-bit)",
-                    "value": 0.65,
-                    "label": "0.65%"
+                    "value": 0.66,
+                    "label": "0.66%"
                 },
                 {
                     "name": "Ubuntu Server 22.04.5 LTS (64-bit)",
-                    "value": 0.6,
-                    "label": "0.60%"
+                    "value": 0.64,
+                    "label": "0.64%"
                 },
                 {
-                    "name": "Raspberry Pi 3, 4, 400, 5 and 500 (64-bit)",
-                    "value": 0.55,
-                    "label": "0.55%"
+                    "name": "Ubuntu Desktop 22.04.5 LTS (64-bit)",
+                    "value": 0.64,
+                    "label": "0.64%"
                 },
                 {
                     "name": "MainsailOS 3.0.0 - Raspberry Pi (64-bit)",
-                    "value": 0.53,
-                    "label": "0.53%"
-                },
-                {
-                    "name": "USB Boot",
                     "value": 0.52,
                     "label": "0.52%"
                 },
                 {
                     "name": "RetroPie 4.8 (RPI 4/400)",
-                    "value": 0.51,
-                    "label": "0.51%"
+                    "value": 0.5,
+                    "label": "0.50%"
                 },
                 {
-                    "name": "Volumio",
+                    "name": "Recalbox - Raspberry Pi 3",
+                    "value": 0.5,
+                    "label": "0.50%"
+                },
+                {
+                    "name": "Raspberry Pi OS Full (32-bit)",
+                    "value": 0.5,
+                    "label": "0.50%"
+                },
+                {
+                    "name": "LibreELEC (RPi2/RPi3)",
+                    "value": 0.48,
+                    "label": "0.48%"
+                },
+                {
+                    "name": "Recalbox - Raspberry Pi 5",
                     "value": 0.47,
                     "label": "0.47%"
                 },
                 {
-                    "name": "Recalbox - Raspberry Pi 5",
-                    "value": 0.45,
-                    "label": "0.45%"
+                    "name": "Raspberry Pi 3, 4, 400, 5 and 500 (64-bit)",
+                    "value": 0.44,
+                    "label": "0.44%"
                 },
                 {
-                    "name": "Raspberry Pi OS (Legacy, 64-bit) Full",
-                    "value": 0.43,
-                    "label": "0.43%"
+                    "name": "USB Boot",
+                    "value": 0.38,
+                    "label": "0.38%"
                 },
                 {
-                    "name": "NVMe/USB Boot",
+                    "name": "moOde audio player 10.3.4 (64-bit Trixie)",
+                    "value": 0.37,
+                    "label": "0.37%"
+                },
+                {
+                    "name": "RetroPie 4.8 (RPI 2/3/Zero 2 W)",
                     "value": 0.35,
                     "label": "0.35%"
                 },
                 {
-                    "name": "PINN",
+                    "name": "Recalbox - Raspberry Pi 4 / 400 / CM4 / GPiCase2 / PiBoyDMG",
                     "value": 0.32,
                     "label": "0.32%"
                 },
                 {
-                    "name": "Ubuntu Server 22.04.5 LTS (32-bit)",
-                    "value": 0.27,
-                    "label": "0.27%"
+                    "name": "Volumio",
+                    "value": 0.29,
+                    "label": "0.29%"
                 },
                 {
-                    "name": "Recalbox - Raspberry Pi 4 / 400 / CM4 / GPiCase2 / PiBoyDMG",
+                    "name": "LibreELEC (RPi4)",
+                    "value": 0.26,
+                    "label": "0.26%"
+                },
+                {
+                    "name": "Raspberry Pi OS (Legacy, 64-bit) Full",
                     "value": 0.25,
                     "label": "0.25%"
                 },
                 {
-                    "name": "Armbian Resolute KDE Plasma Desktop 26.5.1",
+                    "name": "PINN",
+                    "value": 0.25,
+                    "label": "0.25%"
+                },
+                {
+                    "name": "ADS-B Feeder Image v3.0.13",
                     "value": 0.24,
                     "label": "0.24%"
                 },
                 {
-                    "name": "RetroPie 4.8 (RPI 1/Zero)",
-                    "value": 0.23,
-                    "label": "0.23%"
+                    "name": "Ubuntu Server 22.04.5 LTS (32-bit)",
+                    "value": 0.2,
+                    "label": "0.20%"
                 },
                 {
-                    "name": "LibreELEC (RPi4)",
-                    "value": 0.23,
-                    "label": "0.23%"
-                },
-                {
-                    "name": "Raspberry Pi OS Full (32-bit)",
-                    "value": 0.21,
-                    "label": "0.21%"
-                },
-                {
-                    "name": "Homebridge trixie (64bit)",
-                    "value": 0.21,
-                    "label": "0.21%"
-                },
-                {
-                    "name": "Android 15 (RPi 5) - SD Card Only",
-                    "value": 0.21,
-                    "label": "0.21%"
-                },
-                {
-                    "name": "LibreELEC (RPi5)",
+                    "name": "NVMe/USB Boot",
                     "value": 0.19,
                     "label": "0.19%"
                 },
                 {
-                    "name": "Raspberry Pi Zero 2 W",
+                    "name": "Raspberry Pi OS (Legacy, 32-bit) Full",
                     "value": 0.17,
                     "label": "0.17%"
                 },
                 {
-                    "name": "Raspberry Pi 2, 3, 4 and 400 (32-bit)",
+                    "name": "Alpine Linux 3.24.2 (64bit)",
                     "value": 0.17,
                     "label": "0.17%"
                 },
                 {
-                    "name": "LibreELEC (RPi2/RPi3)",
-                    "value": 0.17,
-                    "label": "0.17%"
+                    "name": "Homebridge trixie (64bit)",
+                    "value": 0.14,
+                    "label": "0.14%"
                 },
                 {
                     "name": "DietPi OS (32-bit)",
-                    "value": 0.16,
-                    "label": "0.16%"
+                    "value": 0.14,
+                    "label": "0.14%"
                 },
                 {
-                    "name": "Alpine Linux 3.24.1 (64bit)",
-                    "value": 0.16,
-                    "label": "0.16%"
-                },
-                {
-                    "name": "Ubuntu Desktop 22.04.5 LTS (64-bit)",
-                    "value": 0.15,
-                    "label": "0.15%"
-                },
-                {
-                    "name": "Android 17 (RPi 5) - SD Card Only",
-                    "value": 0.15,
-                    "label": "0.15%"
+                    "name": "Armbian Resolute Gnome Desktop 26.5.1",
+                    "value": 0.12,
+                    "label": "0.12%"
                 },
                 {
                     "name": "piCorePlayer 11.1.0 - 64bit",
-                    "value": 0.13,
-                    "label": "0.13%"
+                    "value": 0.11,
+                    "label": "0.11%"
                 },
                 {
-                    "name": "SimplyPrint Client OS (Raspberry Pi 4 & 5)",
-                    "value": 0.13,
-                    "label": "0.13%"
+                    "name": "OctoPi (new experimental camera stack)",
+                    "value": 0.11,
+                    "label": "0.11%"
                 },
                 {
-                    "name": "OctoPi-Klipper (stable)",
-                    "value": 0.13,
-                    "label": "0.13%"
+                    "name": "Homebridge trixie (32bit)",
+                    "value": 0.11,
+                    "label": "0.11%"
+                },
+                {
+                    "name": "DAKboard OS",
+                    "value": 0.11,
+                    "label": "0.11%"
+                },
+                {
+                    "name": "piCorePlayer 11.1.0 - 32bit",
+                    "value": 0.1,
+                    "label": "0.10%"
+                },
+                {
+                    "name": "RaspAP 64-bit (arm64)",
+                    "value": 0.1,
+                    "label": "0.10%"
+                },
+                {
+                    "name": "LibreELEC (RPi5)",
+                    "value": 0.1,
+                    "label": "0.10%"
                 }
             ],
             "week": [
                 {
                     "name": "Raspberry Pi OS (64-bit)",
-                    "value": 40.26,
-                    "label": "40.26%"
+                    "value": 42.14,
+                    "label": "42.14%"
                 },
                 {
                     "name": "Raspberry Pi OS Lite (64-bit)",
-                    "value": 16.83,
-                    "label": "16.83%"
+                    "value": 17.82,
+                    "label": "17.82%"
                 },
                 {
                     "name": "Raspberry Pi OS (32-bit)",
-                    "value": 6.68,
-                    "label": "6.68%"
+                    "value": 6.22,
+                    "label": "6.22%"
                 },
                 {
                     "name": "Raspberry Pi OS Lite (32-bit)",
-                    "value": 4.31,
-                    "label": "4.31%"
-                },
-                {
-                    "name": "Home Assistant OS 18.2 (RPi 4/400)",
-                    "value": 2.95,
-                    "label": "2.95%"
+                    "value": 4.17,
+                    "label": "4.17%"
                 },
                 {
                     "name": "Raspberry Pi OS (Legacy, 32-bit)",
-                    "value": 1.98,
-                    "label": "1.98%"
+                    "value": 1.84,
+                    "label": "1.84%"
                 },
                 {
                     "name": "SD Card Boot",
-                    "value": 1.92,
-                    "label": "1.92%"
+                    "value": 1.73,
+                    "label": "1.73%"
                 },
                 {
-                    "name": "Home Assistant OS 18.2 (RPi 5)",
-                    "value": 1.91,
-                    "label": "1.91%"
+                    "name": "Home Assistant OS 18.2 (RPi 4/400)",
+                    "value": 1.62,
+                    "label": "1.62%"
+                },
+                {
+                    "name": "Ubuntu Server 24.04.5 LTS (64-bit)",
+                    "value": 1.42,
+                    "label": "1.42%"
+                },
+                {
+                    "name": "Home Assistant OS 18.3 (RPi 4/400)",
+                    "value": 1.4,
+                    "label": "1.40%"
                 },
                 {
                     "name": "Ubuntu Desktop 26.04.1 (64-bit)",
-                    "value": 1.63,
-                    "label": "1.63%"
-                },
-                {
-                    "name": "Home Assistant OS 18.2 (RPi 3)",
-                    "value": 1.36,
-                    "label": "1.36%"
+                    "value": 1.4,
+                    "label": "1.40%"
                 },
                 {
                     "name": "Ubuntu Server 26.04.1 (64-bit)",
-                    "value": 1.3,
-                    "label": "1.30%"
-                },
-                {
-                    "name": "Raspberry Pi OS Full (64-bit)",
-                    "value": 1.13,
-                    "label": "1.13%"
-                },
-                {
-                    "name": "Raspberry Pi OS (Legacy, 32-bit) Lite",
-                    "value": 1.01,
-                    "label": "1.01%"
-                },
-                {
-                    "name": "OctoPi (stable)",
-                    "value": 1.01,
-                    "label": "1.01%"
+                    "value": 1.24,
+                    "label": "1.24%"
                 },
                 {
                     "name": "Raspberry Pi OS (Legacy, 64-bit) Lite",
+                    "value": 1.07,
+                    "label": "1.07%"
+                },
+                {
+                    "name": "Raspberry Pi OS (Legacy, 32-bit) Lite",
+                    "value": 0.99,
+                    "label": "0.99%"
+                },
+                {
+                    "name": "Home Assistant OS 18.2 (RPi 5)",
                     "value": 0.98,
                     "label": "0.98%"
                 },
                 {
-                    "name": "Ubuntu Server 24.04.4 LTS (64-bit)",
-                    "value": 0.91,
-                    "label": "0.91%"
+                    "name": "Raspberry Pi OS Full (64-bit)",
+                    "value": 0.95,
+                    "label": "0.95%"
+                },
+                {
+                    "name": "Ubuntu Desktop 24.04.5 LTS (64-bit)",
+                    "value": 0.94,
+                    "label": "0.94%"
+                },
+                {
+                    "name": "OctoPi (stable)",
+                    "value": 0.88,
+                    "label": "0.88%"
                 },
                 {
                     "name": "Raspberry Pi OS (Legacy, 64-bit)",
-                    "value": 0.85,
-                    "label": "0.85%"
+                    "value": 0.83,
+                    "label": "0.83%"
                 },
                 {
-                    "name": "MainsailOS 3.0.0 - Raspberry Pi (64-bit)",
-                    "value": 0.85,
-                    "label": "0.85%"
-                },
-                {
-                    "name": "USB Boot",
-                    "value": 0.72,
-                    "label": "0.72%"
+                    "name": "Home Assistant OS 18.3 (RPi 5)",
+                    "value": 0.78,
+                    "label": "0.78%"
                 },
                 {
                     "name": "DietPi OS (64-bit)",
-                    "value": 0.71,
-                    "label": "0.71%"
+                    "value": 0.7,
+                    "label": "0.70%"
+                },
+                {
+                    "name": "Home Assistant OS 18.2 (RPi 3)",
+                    "value": 0.67,
+                    "label": "0.67%"
+                },
+                {
+                    "name": "MainsailOS 3.0.0 - Raspberry Pi (64-bit)",
+                    "value": 0.65,
+                    "label": "0.65%"
+                },
+                {
+                    "name": "Home Assistant OS 18.3 (RPi 3)",
+                    "value": 0.63,
+                    "label": "0.63%"
+                },
+                {
+                    "name": "USB Boot",
+                    "value": 0.62,
+                    "label": "0.62%"
                 },
                 {
                     "name": "RetroPie 4.8 (RPI 2/3/Zero 2 W)",
-                    "value": 0.71,
-                    "label": "0.71%"
-                },
-                {
-                    "name": "Ubuntu Desktop 24.04.4 LTS (64-bit)",
-                    "value": 0.68,
-                    "label": "0.68%"
+                    "value": 0.62,
+                    "label": "0.62%"
                 },
                 {
                     "name": "Recalbox - Raspberry Pi 3",
-                    "value": 0.59,
-                    "label": "0.59%"
-                },
-                {
-                    "name": "Ubuntu Server 24.04.5 LTS (64-bit)",
-                    "value": 0.57,
-                    "label": "0.57%"
-                },
-                {
-                    "name": "moOde audio player 10.3.4 (64-bit Trixie)",
                     "value": 0.55,
                     "label": "0.55%"
                 },
                 {
                     "name": "RetroPie 4.8 (RPI 4/400)",
-                    "value": 0.52,
-                    "label": "0.52%"
+                    "value": 0.54,
+                    "label": "0.54%"
+                },
+                {
+                    "name": "moOde audio player 10.3.4 (64-bit Trixie)",
+                    "value": 0.53,
+                    "label": "0.53%"
                 },
                 {
                     "name": "Raspberry Pi 3, 4, 400, 5 and 500 (64-bit)",
-                    "value": 0.52,
-                    "label": "0.52%"
+                    "value": 0.5,
+                    "label": "0.50%"
                 },
                 {
                     "name": "Recalbox - Raspberry Pi 5",
-                    "value": 0.47,
-                    "label": "0.47%"
+                    "value": 0.5,
+                    "label": "0.50%"
                 },
                 {
                     "name": "Recalbox - Raspberry Pi 4 / 400 / CM4 / GPiCase2 / PiBoyDMG",
-                    "value": 0.43,
-                    "label": "0.43%"
-                },
-                {
-                    "name": "Raspberry Pi OS Full (32-bit)",
-                    "value": 0.41,
-                    "label": "0.41%"
-                },
-                {
-                    "name": "LibreELEC (RPi4)",
-                    "value": 0.4,
-                    "label": "0.40%"
-                },
-                {
-                    "name": "Volumio",
-                    "value": 0.4,
-                    "label": "0.40%"
+                    "value": 0.44,
+                    "label": "0.44%"
                 },
                 {
                     "name": "LibreELEC (RPi2/RPi3)",
@@ -1253,19 +1248,24 @@
                     "label": "0.39%"
                 },
                 {
+                    "name": "Volumio",
+                    "value": 0.35,
+                    "label": "0.35%"
+                },
+                {
+                    "name": "LibreELEC (RPi4)",
+                    "value": 0.34,
+                    "label": "0.34%"
+                },
+                {
                     "name": "PINN",
-                    "value": 0.38,
-                    "label": "0.38%"
+                    "value": 0.33,
+                    "label": "0.33%"
                 },
                 {
                     "name": "Ubuntu Server 22.04.5 LTS (64-bit)",
-                    "value": 0.36,
-                    "label": "0.36%"
-                },
-                {
-                    "name": "Raspberry Pi OS (Legacy, 64-bit) Full",
-                    "value": 0.32,
-                    "label": "0.32%"
+                    "value": 0.31,
+                    "label": "0.31%"
                 },
                 {
                     "name": "NVMe/USB Boot",
@@ -1273,19 +1273,19 @@
                     "label": "0.31%"
                 },
                 {
-                    "name": "Ubuntu Desktop 24.04.5 LTS (64-bit)",
-                    "value": 0.27,
-                    "label": "0.27%"
+                    "name": "Raspberry Pi OS (Legacy, 64-bit) Full",
+                    "value": 0.29,
+                    "label": "0.29%"
+                },
+                {
+                    "name": "Raspberry Pi OS Full (32-bit)",
+                    "value": 0.26,
+                    "label": "0.26%"
                 },
                 {
                     "name": "Ubuntu Desktop 22.04.5 LTS (64-bit)",
-                    "value": 0.23,
-                    "label": "0.23%"
-                },
-                {
-                    "name": "Homebridge trixie (64bit)",
-                    "value": 0.22,
-                    "label": "0.22%"
+                    "value": 0.25,
+                    "label": "0.25%"
                 },
                 {
                     "name": "LibreELEC (RPi5)",
@@ -1293,19 +1293,14 @@
                     "label": "0.22%"
                 },
                 {
-                    "name": "DietPi OS (32-bit)",
-                    "value": 0.22,
-                    "label": "0.22%"
-                },
-                {
-                    "name": "DAKboard OS",
+                    "name": "Homebridge trixie (64bit)",
                     "value": 0.21,
                     "label": "0.21%"
                 },
                 {
-                    "name": "Alpine Linux 3.24.1 (64bit)",
-                    "value": 0.19,
-                    "label": "0.19%"
+                    "name": "DietPi OS (32-bit)",
+                    "value": 0.21,
+                    "label": "0.21%"
                 },
                 {
                     "name": "Raspberry Pi OS (Legacy, 32-bit) Full",
@@ -1314,23 +1309,13 @@
                 },
                 {
                     "name": "Armbian Resolute Gnome Desktop 26.5.1",
-                    "value": 0.17,
-                    "label": "0.17%"
+                    "value": 0.18,
+                    "label": "0.18%"
                 },
                 {
-                    "name": "moOde audio player 10.3.3 (64-bit Trixie)",
-                    "value": 0.17,
-                    "label": "0.17%"
-                },
-                {
-                    "name": "Armbian Resolute KDE Plasma Desktop 26.5.1",
-                    "value": 0.17,
-                    "label": "0.17%"
-                },
-                {
-                    "name": "RetroPie 4.8 (RPI 1/Zero)",
-                    "value": 0.15,
-                    "label": "0.15%"
+                    "name": "DAKboard OS",
+                    "value": 0.16,
+                    "label": "0.16%"
                 },
                 {
                     "name": "Ubuntu Server 22.04.5 LTS (32-bit)",
@@ -1338,151 +1323,161 @@
                     "label": "0.14%"
                 },
                 {
-                    "name": "FullpageOS (Stable)",
+                    "name": "Armbian Resolute KDE Plasma Desktop 26.5.1",
                     "value": 0.13,
                     "label": "0.13%"
+                },
+                {
+                    "name": "RetroPie 4.8 (RPI 1/Zero)",
+                    "value": 0.12,
+                    "label": "0.12%"
+                },
+                {
+                    "name": "FullpageOS (Stable)",
+                    "value": 0.12,
+                    "label": "0.12%"
+                },
+                {
+                    "name": "piCorePlayer 11.1.0 - 32bit",
+                    "value": 0.12,
+                    "label": "0.12%"
                 }
             ],
             "month": [
                 {
                     "name": "Raspberry Pi OS (64-bit)",
-                    "value": 38.85,
-                    "label": "38.85%"
+                    "value": 40.14,
+                    "label": "40.14%"
                 },
                 {
                     "name": "Raspberry Pi OS Lite (64-bit)",
-                    "value": 17.44,
-                    "label": "17.44%"
+                    "value": 17.64,
+                    "label": "17.64%"
                 },
                 {
                     "name": "Raspberry Pi OS (32-bit)",
-                    "value": 6.62,
-                    "label": "6.62%"
+                    "value": 6.56,
+                    "label": "6.56%"
                 },
                 {
                     "name": "Raspberry Pi OS Lite (32-bit)",
-                    "value": 4.47,
-                    "label": "4.47%"
+                    "value": 4.37,
+                    "label": "4.37%"
                 },
                 {
                     "name": "Home Assistant OS 18.2 (RPi 4/400)",
-                    "value": 3.25,
-                    "label": "3.25%"
-                },
-                {
-                    "name": "Home Assistant OS 18.2 (RPi 5)",
-                    "value": 2.06,
-                    "label": "2.06%"
+                    "value": 2.83,
+                    "label": "2.83%"
                 },
                 {
                     "name": "Raspberry Pi OS (Legacy, 32-bit)",
-                    "value": 2.0,
-                    "label": "2.00%"
+                    "value": 1.97,
+                    "label": "1.97%"
                 },
                 {
                     "name": "SD Card Boot",
-                    "value": 1.98,
-                    "label": "1.98%"
+                    "value": 1.91,
+                    "label": "1.91%"
+                },
+                {
+                    "name": "Home Assistant OS 18.2 (RPi 5)",
+                    "value": 1.77,
+                    "label": "1.77%"
                 },
                 {
                     "name": "Home Assistant OS 18.2 (RPi 3)",
-                    "value": 1.45,
-                    "label": "1.45%"
-                },
-                {
-                    "name": "Ubuntu Server 24.04.4 LTS (64-bit)",
                     "value": 1.25,
                     "label": "1.25%"
                 },
                 {
-                    "name": "Raspberry Pi OS (Legacy, 32-bit) Lite",
-                    "value": 1.07,
-                    "label": "1.07%"
-                },
-                {
-                    "name": "OctoPi (stable)",
+                    "name": "Raspberry Pi OS (Legacy, 64-bit) Lite",
                     "value": 1.06,
                     "label": "1.06%"
                 },
                 {
-                    "name": "Raspberry Pi OS (Legacy, 64-bit) Lite",
+                    "name": "Raspberry Pi OS (Legacy, 32-bit) Lite",
                     "value": 1.05,
                     "label": "1.05%"
                 },
                 {
                     "name": "Raspberry Pi OS Full (64-bit)",
-                    "value": 1.04,
-                    "label": "1.04%"
+                    "value": 1.03,
+                    "label": "1.03%"
                 },
                 {
-                    "name": "Ubuntu Desktop 26.04 (64-bit)",
-                    "value": 0.9,
-                    "label": "0.90%"
+                    "name": "OctoPi (stable)",
+                    "value": 1.02,
+                    "label": "1.02%"
                 },
                 {
-                    "name": "Ubuntu Desktop 24.04.4 LTS (64-bit)",
+                    "name": "Ubuntu Desktop 26.04.1 (64-bit)",
+                    "value": 1.02,
+                    "label": "1.02%"
+                },
+                {
+                    "name": "Ubuntu Server 24.04.4 LTS (64-bit)",
+                    "value": 0.92,
+                    "label": "0.92%"
+                },
+                {
+                    "name": "Ubuntu Server 26.04.1 (64-bit)",
                     "value": 0.86,
                     "label": "0.86%"
                 },
                 {
-                    "name": "MainsailOS 3.0.0 - Raspberry Pi (64-bit)",
-                    "value": 0.82,
-                    "label": "0.82%"
-                },
-                {
-                    "name": "DietPi OS (64-bit)",
-                    "value": 0.81,
-                    "label": "0.81%"
-                },
-                {
                     "name": "Raspberry Pi OS (Legacy, 64-bit)",
+                    "value": 0.8,
+                    "label": "0.80%"
+                },
+                {
+                    "name": "MainsailOS 3.0.0 - Raspberry Pi (64-bit)",
                     "value": 0.79,
                     "label": "0.79%"
                 },
                 {
-                    "name": "Ubuntu Server 26.04 (64-bit)",
-                    "value": 0.78,
-                    "label": "0.78%"
+                    "name": "DietPi OS (64-bit)",
+                    "value": 0.77,
+                    "label": "0.77%"
                 },
                 {
                     "name": "USB Boot",
-                    "value": 0.76,
-                    "label": "0.76%"
+                    "value": 0.74,
+                    "label": "0.74%"
                 },
                 {
                     "name": "RetroPie 4.8 (RPI 2/3/Zero 2 W)",
-                    "value": 0.75,
-                    "label": "0.75%"
+                    "value": 0.72,
+                    "label": "0.72%"
                 },
                 {
-                    "name": "Ubuntu Desktop 26.04.1 (64-bit)",
-                    "value": 0.71,
-                    "label": "0.71%"
+                    "name": "Ubuntu Desktop 24.04.4 LTS (64-bit)",
+                    "value": 0.65,
+                    "label": "0.65%"
                 },
                 {
                     "name": "Recalbox - Raspberry Pi 3",
-                    "value": 0.63,
-                    "label": "0.63%"
-                },
-                {
-                    "name": "Raspberry Pi 3, 4, 400, 5 and 500 (64-bit)",
-                    "value": 0.59,
-                    "label": "0.59%"
-                },
-                {
-                    "name": "Ubuntu Server 26.04.1 (64-bit)",
-                    "value": 0.58,
-                    "label": "0.58%"
+                    "value": 0.62,
+                    "label": "0.62%"
                 },
                 {
                     "name": "RetroPie 4.8 (RPI 4/400)",
+                    "value": 0.57,
+                    "label": "0.57%"
+                },
+                {
+                    "name": "Raspberry Pi 3, 4, 400, 5 and 500 (64-bit)",
                     "value": 0.56,
                     "label": "0.56%"
                 },
                 {
+                    "name": "Ubuntu Desktop 26.04 (64-bit)",
+                    "value": 0.53,
+                    "label": "0.53%"
+                },
+                {
                     "name": "Recalbox - Raspberry Pi 4 / 400 / CM4 / GPiCase2 / PiBoyDMG",
-                    "value": 0.51,
-                    "label": "0.51%"
+                    "value": 0.49,
+                    "label": "0.49%"
                 },
                 {
                     "name": "Recalbox - Raspberry Pi 5",
@@ -1490,9 +1485,14 @@
                     "label": "0.49%"
                 },
                 {
-                    "name": "Volumio",
-                    "value": 0.41,
-                    "label": "0.41%"
+                    "name": "Ubuntu Server 26.04 (64-bit)",
+                    "value": 0.48,
+                    "label": "0.48%"
+                },
+                {
+                    "name": "Ubuntu Server 24.04.5 LTS (64-bit)",
+                    "value": 0.47,
+                    "label": "0.47%"
                 },
                 {
                     "name": "LibreELEC (RPi2/RPi3)",
@@ -1500,9 +1500,14 @@
                     "label": "0.40%"
                 },
                 {
+                    "name": "Volumio",
+                    "value": 0.38,
+                    "label": "0.38%"
+                },
+                {
                     "name": "PINN",
-                    "value": 0.4,
-                    "label": "0.40%"
+                    "value": 0.38,
+                    "label": "0.38%"
                 },
                 {
                     "name": "LibreELEC (RPi4)",
@@ -1510,9 +1515,9 @@
                     "label": "0.37%"
                 },
                 {
-                    "name": "NVMe/USB Boot",
-                    "value": 0.35,
-                    "label": "0.35%"
+                    "name": "Home Assistant OS 18.3 (RPi 4/400)",
+                    "value": 0.36,
+                    "label": "0.36%"
                 },
                 {
                     "name": "Ubuntu Server 22.04.5 LTS (64-bit)",
@@ -1520,29 +1525,34 @@
                     "label": "0.33%"
                 },
                 {
-                    "name": "Raspberry Pi OS (Legacy, 64-bit) Full",
-                    "value": 0.32,
-                    "label": "0.32%"
+                    "name": "NVMe/USB Boot",
+                    "value": 0.33,
+                    "label": "0.33%"
                 },
                 {
-                    "name": "moOde audio player 10.3.3 (64-bit Trixie)",
+                    "name": "Raspberry Pi OS (Legacy, 64-bit) Full",
+                    "value": 0.31,
+                    "label": "0.31%"
+                },
+                {
+                    "name": "Ubuntu Desktop 24.04.5 LTS (64-bit)",
                     "value": 0.29,
                     "label": "0.29%"
                 },
                 {
-                    "name": "moOde audio player 10.3.2 (64-bit Trixie)",
+                    "name": "Raspberry Pi OS Full (32-bit)",
                     "value": 0.28,
                     "label": "0.28%"
                 },
                 {
-                    "name": "Raspberry Pi OS Full (32-bit)",
-                    "value": 0.27,
-                    "label": "0.27%"
+                    "name": "moOde audio player 10.3.3 (64-bit Trixie)",
+                    "value": 0.28,
+                    "label": "0.28%"
                 },
                 {
-                    "name": "Homebridge trixie (64bit)",
-                    "value": 0.27,
-                    "label": "0.27%"
+                    "name": "moOde audio player 10.3.4 (64-bit Trixie)",
+                    "value": 0.26,
+                    "label": "0.26%"
                 },
                 {
                     "name": "Ubuntu Desktop 22.04.5 LTS (64-bit)",
@@ -1550,14 +1560,9 @@
                     "label": "0.26%"
                 },
                 {
-                    "name": "DAKboard OS",
-                    "value": 0.24,
-                    "label": "0.24%"
-                },
-                {
-                    "name": "DietPi OS (32-bit)",
-                    "value": 0.22,
-                    "label": "0.22%"
+                    "name": "Homebridge trixie (64bit)",
+                    "value": 0.25,
+                    "label": "0.25%"
                 },
                 {
                     "name": "LibreELEC (RPi5)",
@@ -1565,12 +1570,22 @@
                     "label": "0.22%"
                 },
                 {
-                    "name": "Alpine Linux 3.24.1 (64bit)",
-                    "value": 0.21,
-                    "label": "0.21%"
+                    "name": "DAKboard OS",
+                    "value": 0.22,
+                    "label": "0.22%"
+                },
+                {
+                    "name": "DietPi OS (32-bit)",
+                    "value": 0.22,
+                    "label": "0.22%"
                 },
                 {
                     "name": "Raspberry Pi OS (Legacy, 32-bit) Full",
+                    "value": 0.2,
+                    "label": "0.20%"
+                },
+                {
+                    "name": "Home Assistant OS 18.3 (RPi 5)",
                     "value": 0.2,
                     "label": "0.20%"
                 },
@@ -1580,24 +1595,9 @@
                     "label": "0.19%"
                 },
                 {
-                    "name": "Armbian Resolute KDE Plasma Desktop 26.5.1",
+                    "name": "Alpine Linux 3.24.1 (64bit)",
                     "value": 0.18,
                     "label": "0.18%"
-                },
-                {
-                    "name": "FullpageOS (Stable)",
-                    "value": 0.16,
-                    "label": "0.16%"
-                },
-                {
-                    "name": "RetroPie 4.8 (RPI 1/Zero)",
-                    "value": 0.16,
-                    "label": "0.16%"
-                },
-                {
-                    "name": "RaspAP 64-bit (arm64)",
-                    "value": 0.15,
-                    "label": "0.15%"
                 }
             ]
         },
@@ -1605,190 +1605,327 @@
             "today": [
                 {
                     "name": "1.8.5",
-                    "value": 25.91,
-                    "label": "25.91%"
+                    "value": 23.92,
+                    "label": "23.92%"
                 },
                 {
                     "name": "2.0.10",
-                    "value": 14.22,
-                    "label": "14.22%"
-                },
-                {
-                    "name": "2.0.7",
-                    "value": 10.08,
-                    "label": "10.08%"
+                    "value": 14.79,
+                    "label": "14.79%"
                 },
                 {
                     "name": "2.0.0",
-                    "value": 9.6,
-                    "label": "9.60%"
+                    "value": 12.08,
+                    "label": "12.08%"
                 },
                 {
                     "name": "1.9.6",
-                    "value": 8.46,
-                    "label": "8.46%"
+                    "value": 8.97,
+                    "label": "8.97%"
                 },
                 {
-                    "name": "2.0.3",
-                    "value": 7.74,
-                    "label": "7.74%"
+                    "name": "2.0.7",
+                    "value": 8.19,
+                    "label": "8.19%"
                 },
                 {
                     "name": "2.0.11",
-                    "value": 6.54,
-                    "label": "6.54%"
+                    "value": 8.14,
+                    "label": "8.14%"
+                },
+                {
+                    "name": "2.0.3",
+                    "value": 7.54,
+                    "label": "7.54%"
                 },
                 {
                     "name": "2.0.6",
-                    "value": 5.7,
-                    "label": "5.70%"
+                    "value": 5.52,
+                    "label": "5.52%"
                 },
                 {
                     "name": "1.7.2",
-                    "value": 4.38,
-                    "label": "4.38%"
+                    "value": 3.8,
+                    "label": "3.80%"
                 },
                 {
                     "name": "2.0.4",
-                    "value": 2.88,
-                    "label": "2.88%"
+                    "value": 2.02,
+                    "label": "2.02%"
                 },
                 {
                     "name": "2.0.8",
-                    "value": 1.98,
-                    "label": "1.98%"
-                },
-                {
-                    "name": "2.0.9",
-                    "value": 0.48,
-                    "label": "0.48%"
+                    "value": 1.38,
+                    "label": "1.38%"
                 },
                 {
                     "name": "1.9.4",
-                    "value": 0.48,
-                    "label": "0.48%"
+                    "value": 1.08,
+                    "label": "1.08%"
                 },
                 {
-                    "name": "1.7.5",
-                    "value": 0.48,
-                    "label": "0.48%"
+                    "name": "2.0.9",
+                    "value": 0.99,
+                    "label": "0.99%"
                 },
                 {
-                    "name": "1.7.3",
-                    "value": 0.3,
-                    "label": "0.30%"
-                },
-                {
-                    "name": "1.8.4",
-                    "value": 0.12,
-                    "label": "0.12%"
-                },
-                {
-                    "name": "1.8.3",
-                    "value": 0.12,
-                    "label": "0.12%"
-                },
-                {
-                    "name": "1.7.4",
-                    "value": 0.12,
-                    "label": "0.12%"
-                },
-                {
-                    "name": "2.0.5",
-                    "value": 0.06,
-                    "label": "0.06%"
-                },
-                {
-                    "name": "2.0.2",
-                    "value": 0.06,
-                    "label": "0.06%"
-                },
-                {
-                    "name": "2.0.1",
-                    "value": 0.06,
-                    "label": "0.06%"
-                },
-                {
-                    "name": "1.9.5",
-                    "value": 0.06,
-                    "label": "0.06%"
-                },
-                {
-                    "name": "1.9.1",
-                    "value": 0.06,
-                    "label": "0.06%"
+                    "name": "1.9.0",
+                    "value": 0.35,
+                    "label": "0.35%"
                 },
                 {
                     "name": "1.8.1",
-                    "value": 0.06,
-                    "label": "0.06%"
+                    "value": 0.35,
+                    "label": "0.35%"
                 },
                 {
-                    "name": "1.7.1",
-                    "value": 0.06,
-                    "label": "0.06%"
+                    "name": "1.7.4",
+                    "value": 0.2,
+                    "label": "0.20%"
+                },
+                {
+                    "name": "1.7.3",
+                    "value": 0.2,
+                    "label": "0.20%"
+                },
+                {
+                    "name": "2.0.2",
+                    "value": 0.1,
+                    "label": "0.10%"
+                },
+                {
+                    "name": "2.0.1",
+                    "value": 0.1,
+                    "label": "0.10%"
+                },
+                {
+                    "name": "1.9.5",
+                    "value": 0.1,
+                    "label": "0.10%"
+                },
+                {
+                    "name": "1.7.5",
+                    "value": 0.1,
+                    "label": "0.10%"
+                },
+                {
+                    "name": "2.0.5",
+                    "value": 0.05,
+                    "label": "0.05%"
+                },
+                {
+                    "name": "1.8.4",
+                    "value": 0.05,
+                    "label": "0.05%"
                 }
             ],
             "week": [
                 {
                     "name": "1.8.5",
-                    "value": 27.0,
-                    "label": "27.00%"
+                    "value": 26.09,
+                    "label": "26.09%"
                 },
                 {
                     "name": "2.0.10",
-                    "value": 11.49,
-                    "label": "11.49%"
+                    "value": 13.17,
+                    "label": "13.17%"
                 },
                 {
                     "name": "2.0.0",
-                    "value": 10.73,
-                    "label": "10.73%"
+                    "value": 11.06,
+                    "label": "11.06%"
                 },
                 {
                     "name": "2.0.7",
-                    "value": 10.46,
-                    "label": "10.46%"
-                },
-                {
-                    "name": "1.9.6",
-                    "value": 8.85,
-                    "label": "8.85%"
+                    "value": 9.38,
+                    "label": "9.38%"
                 },
                 {
                     "name": "2.0.3",
-                    "value": 8.01,
-                    "label": "8.01%"
+                    "value": 8.76,
+                    "label": "8.76%"
                 },
                 {
                     "name": "2.0.11",
-                    "value": 7.28,
-                    "label": "7.28%"
+                    "value": 8.24,
+                    "label": "8.24%"
+                },
+                {
+                    "name": "1.9.6",
+                    "value": 8.17,
+                    "label": "8.17%"
                 },
                 {
                     "name": "2.0.6",
-                    "value": 5.23,
-                    "label": "5.23%"
+                    "value": 4.73,
+                    "label": "4.73%"
                 },
                 {
                     "name": "1.7.2",
-                    "value": 2.95,
-                    "label": "2.95%"
+                    "value": 2.58,
+                    "label": "2.58%"
                 },
                 {
                     "name": "2.0.4",
-                    "value": 2.28,
-                    "label": "2.28%"
+                    "value": 2.54,
+                    "label": "2.54%"
                 },
                 {
                     "name": "2.0.8",
-                    "value": 1.82,
-                    "label": "1.82%"
+                    "value": 1.59,
+                    "label": "1.59%"
                 },
                 {
                     "name": "1.9.4",
-                    "value": 0.92,
-                    "label": "0.92%"
+                    "value": 0.89,
+                    "label": "0.89%"
+                },
+                {
+                    "name": "1.7.5",
+                    "value": 0.87,
+                    "label": "0.87%"
+                },
+                {
+                    "name": "2.0.9",
+                    "value": 0.4,
+                    "label": "0.40%"
+                },
+                {
+                    "name": "1.7.3",
+                    "value": 0.36,
+                    "label": "0.36%"
+                },
+                {
+                    "name": "1.8.1",
+                    "value": 0.2,
+                    "label": "0.20%"
+                },
+                {
+                    "name": "1.7.4",
+                    "value": 0.15,
+                    "label": "0.15%"
+                },
+                {
+                    "name": "1.8.4",
+                    "value": 0.13,
+                    "label": "0.13%"
+                },
+                {
+                    "name": "2.0.1",
+                    "value": 0.12,
+                    "label": "0.12%"
+                },
+                {
+                    "name": "1.9.0",
+                    "value": 0.12,
+                    "label": "0.12%"
+                },
+                {
+                    "name": "1.9.3",
+                    "value": 0.11,
+                    "label": "0.11%"
+                },
+                {
+                    "name": "2.0.2",
+                    "value": 0.08,
+                    "label": "0.08%"
+                },
+                {
+                    "name": "1.9.5",
+                    "value": 0.07,
+                    "label": "0.07%"
+                },
+                {
+                    "name": "1.8.3",
+                    "value": 0.07,
+                    "label": "0.07%"
+                },
+                {
+                    "name": "0.0.0",
+                    "value": 0.04,
+                    "label": "0.04%"
+                },
+                {
+                    "name": "1.7.1",
+                    "value": 0.04,
+                    "label": "0.04%"
+                },
+                {
+                    "name": "2.0.5",
+                    "value": 0.03,
+                    "label": "0.03%"
+                },
+                {
+                    "name": "1.9.1",
+                    "value": 0.02,
+                    "label": "0.02%"
+                },
+                {
+                    "name": "1.7",
+                    "value": 0.0,
+                    "label": "0.00%"
+                }
+            ],
+            "month": [
+                {
+                    "name": "1.8.5",
+                    "value": 25.8,
+                    "label": "25.80%"
+                },
+                {
+                    "name": "2.0.10",
+                    "value": 14.37,
+                    "label": "14.37%"
+                },
+                {
+                    "name": "2.0.0",
+                    "value": 10.48,
+                    "label": "10.48%"
+                },
+                {
+                    "name": "2.0.7",
+                    "value": 10.0,
+                    "label": "10.00%"
+                },
+                {
+                    "name": "1.9.6",
+                    "value": 8.37,
+                    "label": "8.37%"
+                },
+                {
+                    "name": "2.0.3",
+                    "value": 8.06,
+                    "label": "8.06%"
+                },
+                {
+                    "name": "2.0.11",
+                    "value": 7.6,
+                    "label": "7.60%"
+                },
+                {
+                    "name": "2.0.6",
+                    "value": 4.98,
+                    "label": "4.98%"
+                },
+                {
+                    "name": "1.7.2",
+                    "value": 2.45,
+                    "label": "2.45%"
+                },
+                {
+                    "name": "2.0.4",
+                    "value": 2.22,
+                    "label": "2.22%"
+                },
+                {
+                    "name": "2.0.8",
+                    "value": 1.65,
+                    "label": "1.65%"
+                },
+                {
+                    "name": "1.9.4",
+                    "value": 0.87,
+                    "label": "0.87%"
                 },
                 {
                     "name": "1.7.5",
@@ -1797,58 +1934,58 @@
                 },
                 {
                     "name": "2.0.9",
-                    "value": 0.41,
-                    "label": "0.41%"
+                    "value": 0.66,
+                    "label": "0.66%"
                 },
                 {
                     "name": "1.7.3",
-                    "value": 0.31,
-                    "label": "0.31%"
+                    "value": 0.3,
+                    "label": "0.30%"
                 },
                 {
                     "name": "1.8.1",
-                    "value": 0.29,
-                    "label": "0.29%"
+                    "value": 0.25,
+                    "label": "0.25%"
                 },
                 {
                     "name": "2.0.1",
-                    "value": 0.22,
-                    "label": "0.22%"
-                },
-                {
-                    "name": "1.9.0",
-                    "value": 0.16,
-                    "label": "0.16%"
+                    "value": 0.17,
+                    "label": "0.17%"
                 },
                 {
                     "name": "1.8.4",
-                    "value": 0.16,
-                    "label": "0.16%"
+                    "value": 0.15,
+                    "label": "0.15%"
+                },
+                {
+                    "name": "1.7.4",
+                    "value": 0.13,
+                    "label": "0.13%"
                 },
                 {
                     "name": "2.0.2",
+                    "value": 0.13,
+                    "label": "0.13%"
+                },
+                {
+                    "name": "1.9.0",
                     "value": 0.12,
                     "label": "0.12%"
                 },
                 {
-                    "name": "1.9.5",
+                    "name": "1.8.3",
                     "value": 0.1,
                     "label": "0.10%"
                 },
                 {
-                    "name": "1.7.4",
-                    "value": 0.09,
-                    "label": "0.09%"
+                    "name": "1.9.5",
+                    "value": 0.08,
+                    "label": "0.08%"
                 },
                 {
-                    "name": "1.8.3",
-                    "value": 0.06,
-                    "label": "0.06%"
-                },
-                {
-                    "name": "1.7.1",
-                    "value": 0.05,
-                    "label": "0.05%"
+                    "name": "1.9.3",
+                    "value": 0.07,
+                    "label": "0.07%"
                 },
                 {
                     "name": "2.0.5",
@@ -1856,171 +1993,24 @@
                     "label": "0.04%"
                 },
                 {
-                    "name": "1.7",
-                    "value": 0.04,
-                    "label": "0.04%"
-                },
-                {
-                    "name": "0.0.0",
-                    "value": 0.04,
-                    "label": "0.04%"
-                },
-                {
-                    "name": "1.9.3",
-                    "value": 0.04,
-                    "label": "0.04%"
-                },
-                {
-                    "name": "1.9.1",
-                    "value": 0.03,
-                    "label": "0.03%"
-                }
-            ],
-            "month": [
-                {
-                    "name": "2.0.10",
-                    "value": 38.51,
-                    "label": "38.51%"
-                },
-                {
-                    "name": "1.8.5",
-                    "value": 18.22,
-                    "label": "18.22%"
-                },
-                {
-                    "name": "2.0.7",
-                    "value": 7.45,
-                    "label": "7.45%"
-                },
-                {
-                    "name": "2.0.0",
-                    "value": 7.31,
-                    "label": "7.31%"
-                },
-                {
-                    "name": "1.9.6",
-                    "value": 5.93,
-                    "label": "5.93%"
-                },
-                {
-                    "name": "2.0.3",
-                    "value": 5.63,
-                    "label": "5.63%"
-                },
-                {
-                    "name": "2.0.11",
-                    "value": 5.5,
-                    "label": "5.50%"
-                },
-                {
-                    "name": "2.0.6",
-                    "value": 3.71,
-                    "label": "3.71%"
-                },
-                {
-                    "name": "1.7.2",
-                    "value": 1.69,
-                    "label": "1.69%"
-                },
-                {
-                    "name": "2.0.4",
-                    "value": 1.53,
-                    "label": "1.53%"
-                },
-                {
-                    "name": "2.0.8",
-                    "value": 1.18,
-                    "label": "1.18%"
-                },
-                {
-                    "name": "2.0.9",
-                    "value": 1.02,
-                    "label": "1.02%"
-                },
-                {
-                    "name": "1.9.4",
-                    "value": 0.62,
-                    "label": "0.62%"
-                },
-                {
-                    "name": "1.7.5",
-                    "value": 0.55,
-                    "label": "0.55%"
-                },
-                {
-                    "name": "1.7.3",
-                    "value": 0.19,
-                    "label": "0.19%"
-                },
-                {
-                    "name": "1.8.1",
-                    "value": 0.18,
-                    "label": "0.18%"
-                },
-                {
-                    "name": "2.0.1",
-                    "value": 0.12,
-                    "label": "0.12%"
-                },
-                {
-                    "name": "1.8.4",
-                    "value": 0.11,
-                    "label": "0.11%"
-                },
-                {
-                    "name": "2.0.2",
-                    "value": 0.1,
-                    "label": "0.10%"
-                },
-                {
-                    "name": "1.9.0",
-                    "value": 0.09,
-                    "label": "0.09%"
-                },
-                {
-                    "name": "1.7.4",
-                    "value": 0.09,
-                    "label": "0.09%"
-                },
-                {
-                    "name": "1.8.3",
-                    "value": 0.06,
-                    "label": "0.06%"
-                },
-                {
-                    "name": "1.9.5",
-                    "value": 0.06,
-                    "label": "0.06%"
-                },
-                {
-                    "name": "1.9.3",
-                    "value": 0.04,
-                    "label": "0.04%"
-                },
-                {
-                    "name": "2.0.5",
-                    "value": 0.03,
-                    "label": "0.03%"
-                },
-                {
                     "name": "1.7.1",
-                    "value": 0.02,
-                    "label": "0.02%"
+                    "value": 0.03,
+                    "label": "0.03%"
                 },
                 {
                     "name": "1.9.1",
-                    "value": 0.02,
-                    "label": "0.02%"
-                },
-                {
-                    "name": "1.7",
-                    "value": 0.01,
-                    "label": "0.01%"
+                    "value": 0.03,
+                    "label": "0.03%"
                 },
                 {
                     "name": "0.0.0",
-                    "value": 0.01,
-                    "label": "0.01%"
+                    "value": 0.03,
+                    "label": "0.03%"
+                },
+                {
+                    "name": "1.7",
+                    "value": 0.02,
+                    "label": "0.02%"
                 },
                 {
                     "name": "1.9.2",
@@ -2038,128 +2028,123 @@
             "today": [
                 {
                     "name": "en_US",
-                    "value": 41.8,
-                    "label": "41.80%"
-                },
-                {
-                    "name": "zh_CN",
-                    "value": 9.21,
-                    "label": "9.21%"
+                    "value": 44.16,
+                    "label": "44.16%"
                 },
                 {
                     "name": "de_DE",
-                    "value": 7.37,
-                    "label": "7.37%"
+                    "value": 7.7,
+                    "label": "7.70%"
+                },
+                {
+                    "name": "zh_CN",
+                    "value": 7.67,
+                    "label": "7.67%"
                 },
                 {
                     "name": "en_GB",
-                    "value": 6.37,
-                    "label": "6.37%"
+                    "value": 7.44,
+                    "label": "7.44%"
                 },
                 {
                     "name": "ja_JP",
-                    "value": 6.24,
-                    "label": "6.24%"
+                    "value": 5.89,
+                    "label": "5.89%"
                 },
                 {
                     "name": "ko_KR",
-                    "value": 5.2,
-                    "label": "5.20%"
+                    "value": 5.5,
+                    "label": "5.50%"
                 },
                 {
                     "name": "fr_FR",
-                    "value": 3.91,
-                    "label": "3.91%"
-                },
-                {
-                    "name": "es_MX",
-                    "value": 2.27,
-                    "label": "2.27%"
+                    "value": 2.93,
+                    "label": "2.93%"
                 },
                 {
                     "name": "es_ES",
-                    "value": 1.97,
-                    "label": "1.97%"
-                },
-                {
-                    "name": "ru_RU",
-                    "value": 1.83,
-                    "label": "1.83%"
+                    "value": 1.99,
+                    "label": "1.99%"
                 },
                 {
                     "name": "zh_TW",
+                    "value": 1.91,
+                    "label": "1.91%"
+                },
+                {
+                    "name": "ru_RU",
+                    "value": 1.72,
+                    "label": "1.72%"
+                },
+                {
+                    "name": "nl_NL",
                     "value": 1.56,
                     "label": "1.56%"
                 },
                 {
-                    "name": "it_IT",
-                    "value": 1.44,
-                    "label": "1.44%"
+                    "name": "en",
+                    "value": 1.09,
+                    "label": "1.09%"
+                },
+                {
+                    "name": "es_MX",
+                    "value": 1.0,
+                    "label": "1.00%"
                 },
                 {
                     "name": "en_AU",
-                    "value": 0.97,
-                    "label": "0.97%"
-                },
-                {
-                    "name": "en",
-                    "value": 0.94,
-                    "label": "0.94%"
-                },
-                {
-                    "name": "pt_BR",
-                    "value": 0.93,
-                    "label": "0.93%"
-                },
-                {
-                    "name": "en_IN",
-                    "value": 0.85,
-                    "label": "0.85%"
-                },
-                {
-                    "name": "nl_NL",
-                    "value": 0.81,
-                    "label": "0.81%"
-                },
-                {
-                    "name": "pl_PL",
-                    "value": 0.75,
-                    "label": "0.75%"
+                    "value": 1.0,
+                    "label": "1.00%"
                 },
                 {
                     "name": "tr_TR",
-                    "value": 0.67,
-                    "label": "0.67%"
+                    "value": 0.98,
+                    "label": "0.98%"
                 },
                 {
-                    "name": "cs_CZ",
+                    "name": "it_IT",
+                    "value": 0.96,
+                    "label": "0.96%"
+                },
+                {
+                    "name": "pl_PL",
+                    "value": 0.9,
+                    "label": "0.90%"
+                },
+                {
+                    "name": "en_CA",
                     "value": 0.63,
                     "label": "0.63%"
                 },
                 {
-                    "name": "da_DK",
-                    "value": 0.55,
-                    "label": "0.55%"
+                    "name": "pt_BR",
+                    "value": 0.62,
+                    "label": "0.62%"
                 },
                 {
-                    "name": "en_CA",
-                    "value": 0.52,
-                    "label": "0.52%"
-                },
-                {
-                    "name": "uk_UA",
-                    "value": 0.45,
-                    "label": "0.45%"
-                },
-                {
-                    "name": "hu_HU",
-                    "value": 0.29,
-                    "label": "0.29%"
+                    "name": "en_IN",
+                    "value": 0.59,
+                    "label": "0.59%"
                 },
                 {
                     "name": "sv_SE",
-                    "value": 0.25,
-                    "label": "0.25%"
+                    "value": 0.38,
+                    "label": "0.38%"
+                },
+                {
+                    "name": "uk_UA",
+                    "value": 0.32,
+                    "label": "0.32%"
+                },
+                {
+                    "name": "cs_CZ",
+                    "value": 0.26,
+                    "label": "0.26%"
+                },
+                {
+                    "name": "da_DK",
+                    "value": 0.21,
+                    "label": "0.21%"
                 },
                 {
                     "name": "en_NZ",
@@ -2167,87 +2152,359 @@
                     "label": "0.20%"
                 },
                 {
-                    "name": "sk_SK",
-                    "value": 0.18,
-                    "label": "0.18%"
+                    "name": "bg_BG",
+                    "value": 0.2,
+                    "label": "0.20%"
                 },
                 {
                     "name": "nb_NO",
+                    "value": 0.17,
+                    "label": "0.17%"
+                },
+                {
+                    "name": "hu_HU",
+                    "value": 0.17,
+                    "label": "0.17%"
+                },
+                {
+                    "name": "fi_FI",
                     "value": 0.16,
                     "label": "0.16%"
                 },
                 {
-                    "name": "fi_FI",
-                    "value": 0.14,
-                    "label": "0.14%"
-                },
-                {
-                    "name": "en_ZA",
-                    "value": 0.14,
-                    "label": "0.14%"
-                },
-                {
-                    "name": "en_DE",
+                    "name": "fr",
                     "value": 0.13,
                     "label": "0.13%"
                 },
                 {
-                    "name": "fr_CA",
+                    "name": "en_SG",
                     "value": 0.12,
                     "label": "0.12%"
                 },
                 {
-                    "name": "fr_BE",
+                    "name": "de_CH",
+                    "value": 0.12,
+                    "label": "0.12%"
+                },
+                {
+                    "name": "fr_CA",
+                    "value": 0.11,
+                    "label": "0.11%"
+                },
+                {
+                    "name": "en_DE",
+                    "value": 0.11,
+                    "label": "0.11%"
+                },
+                {
+                    "name": "de_AT",
                     "value": 0.1,
                     "label": "0.10%"
                 },
                 {
-                    "name": "fr",
+                    "name": "ar_SA",
                     "value": 0.1,
                     "label": "0.10%"
                 },
                 {
-                    "name": "en_ID",
+                    "name": "en_NL",
+                    "value": 0.09,
+                    "label": "0.09%"
+                },
+                {
+                    "name": "en_IL",
                     "value": 0.09,
                     "label": "0.09%"
                 },
                 {
                     "name": "de",
-                    "value": 0.09,
-                    "label": "0.09%"
-                },
-                {
-                    "name": "en_PH",
                     "value": 0.08,
                     "label": "0.08%"
                 },
                 {
-                    "name": "pt_PT",
+                    "name": "zh_HK",
                     "value": 0.07,
                     "label": "0.07%"
                 },
                 {
-                    "name": "es_CL",
+                    "name": "vi_VN",
                     "value": 0.07,
                     "label": "0.07%"
+                },
+                {
+                    "name": "sk_SK",
+                    "value": 0.06,
+                    "label": "0.06%"
+                },
+                {
+                    "name": "es_CO",
+                    "value": 0.06,
+                    "label": "0.06%"
+                },
+                {
+                    "name": "en_RO",
+                    "value": 0.06,
+                    "label": "0.06%"
+                },
+                {
+                    "name": "en_PH",
+                    "value": 0.06,
+                    "label": "0.06%"
+                },
+                {
+                    "name": "en_JP",
+                    "value": 0.06,
+                    "label": "0.06%"
+                },
+                {
+                    "name": "en_ID",
+                    "value": 0.06,
+                    "label": "0.06%"
+                },
+                {
+                    "name": "en_FR",
+                    "value": 0.06,
+                    "label": "0.06%"
+                },
+                {
+                    "name": "en_ES",
+                    "value": 0.06,
+                    "label": "0.06%"
+                },
+                {
+                    "name": "ro_RO",
+                    "value": 0.04,
+                    "label": "0.04%"
+                },
+                {
+                    "name": "lt_LT",
+                    "value": 0.04,
+                    "label": "0.04%"
+                }
+            ],
+            "week": [
+                {
+                    "name": "en_US",
+                    "value": 41.11,
+                    "label": "41.11%"
+                },
+                {
+                    "name": "de_DE",
+                    "value": 12.4,
+                    "label": "12.40%"
+                },
+                {
+                    "name": "en_GB",
+                    "value": 9.38,
+                    "label": "9.38%"
+                },
+                {
+                    "name": "fr_FR",
+                    "value": 4.8,
+                    "label": "4.80%"
+                },
+                {
+                    "name": "zh_CN",
+                    "value": 4.13,
+                    "label": "4.13%"
+                },
+                {
+                    "name": "ja_JP",
+                    "value": 2.82,
+                    "label": "2.82%"
+                },
+                {
+                    "name": "es_ES",
+                    "value": 2.8,
+                    "label": "2.80%"
+                },
+                {
+                    "name": "ru_RU",
+                    "value": 2.36,
+                    "label": "2.36%"
+                },
+                {
+                    "name": "pt_BR",
+                    "value": 2.02,
+                    "label": "2.02%"
+                },
+                {
+                    "name": "ko_KR",
+                    "value": 1.94,
+                    "label": "1.94%"
+                },
+                {
+                    "name": "it_IT",
+                    "value": 1.87,
+                    "label": "1.87%"
+                },
+                {
+                    "name": "nl_NL",
+                    "value": 1.7,
+                    "label": "1.70%"
+                },
+                {
+                    "name": "pl_PL",
+                    "value": 1.36,
+                    "label": "1.36%"
+                },
+                {
+                    "name": "es_MX",
+                    "value": 1.27,
+                    "label": "1.27%"
+                },
+                {
+                    "name": "en",
+                    "value": 1.06,
+                    "label": "1.06%"
+                },
+                {
+                    "name": "zh_TW",
+                    "value": 0.93,
+                    "label": "0.93%"
+                },
+                {
+                    "name": "tr_TR",
+                    "value": 0.83,
+                    "label": "0.83%"
+                },
+                {
+                    "name": "en_IN",
+                    "value": 0.7,
+                    "label": "0.70%"
+                },
+                {
+                    "name": "sv_SE",
+                    "value": 0.64,
+                    "label": "0.64%"
+                },
+                {
+                    "name": "cs_CZ",
+                    "value": 0.63,
+                    "label": "0.63%"
+                },
+                {
+                    "name": "en_AU",
+                    "value": 0.56,
+                    "label": "0.56%"
+                },
+                {
+                    "name": "en_CA",
+                    "value": 0.54,
+                    "label": "0.54%"
+                },
+                {
+                    "name": "uk_UA",
+                    "value": 0.51,
+                    "label": "0.51%"
+                },
+                {
+                    "name": "da_DK",
+                    "value": 0.42,
+                    "label": "0.42%"
+                },
+                {
+                    "name": "hu_HU",
+                    "value": 0.38,
+                    "label": "0.38%"
+                },
+                {
+                    "name": "nb_NO",
+                    "value": 0.28,
+                    "label": "0.28%"
+                },
+                {
+                    "name": "pt_PT",
+                    "value": 0.28,
+                    "label": "0.28%"
+                },
+                {
+                    "name": "fi_FI",
+                    "value": 0.21,
+                    "label": "0.21%"
+                },
+                {
+                    "name": "fr_CA",
+                    "value": 0.21,
+                    "label": "0.21%"
+                },
+                {
+                    "name": "en_DE",
+                    "value": 0.19,
+                    "label": "0.19%"
+                },
+                {
+                    "name": "de_AT",
+                    "value": 0.17,
+                    "label": "0.17%"
+                },
+                {
+                    "name": "de_CH",
+                    "value": 0.15,
+                    "label": "0.15%"
+                },
+                {
+                    "name": "sk_SK",
+                    "value": 0.15,
+                    "label": "0.15%"
                 },
                 {
                     "name": "en_NL",
+                    "value": 0.13,
+                    "label": "0.13%"
+                },
+                {
+                    "name": "de",
+                    "value": 0.13,
+                    "label": "0.13%"
+                },
+                {
+                    "name": "el_GR",
+                    "value": 0.1,
+                    "label": "0.10%"
+                },
+                {
+                    "name": "en_ZA",
+                    "value": 0.08,
+                    "label": "0.08%"
+                },
+                {
+                    "name": "en_NZ",
+                    "value": 0.08,
+                    "label": "0.08%"
+                },
+                {
+                    "name": "en_SG",
                     "value": 0.07,
                     "label": "0.07%"
                 },
                 {
-                    "name": "zh",
+                    "name": "en_IE",
+                    "value": 0.07,
+                    "label": "0.07%"
+                },
+                {
+                    "name": "fr",
+                    "value": 0.06,
+                    "label": "0.06%"
+                },
+                {
+                    "name": "es_AR",
+                    "value": 0.06,
+                    "label": "0.06%"
+                },
+                {
+                    "name": "he_IL",
                     "value": 0.05,
                     "label": "0.05%"
                 },
                 {
-                    "name": "ja",
+                    "name": "vi_VN",
                     "value": 0.05,
                     "label": "0.05%"
                 },
                 {
-                    "name": "fr_CH",
+                    "name": "en_BE",
                     "value": 0.05,
                     "label": "0.05%"
                 },
@@ -2257,156 +2514,146 @@
                     "label": "0.05%"
                 },
                 {
-                    "name": "id_ID",
-                    "value": 0.04,
-                    "label": "0.04%"
+                    "name": "en_IL",
+                    "value": 0.05,
+                    "label": "0.05%"
                 },
                 {
-                    "name": "es_AR",
-                    "value": 0.04,
-                    "label": "0.04%"
+                    "name": "nl_BE",
+                    "value": 0.05,
+                    "label": "0.05%"
                 },
                 {
-                    "name": "en_SG",
-                    "value": 0.04,
-                    "label": "0.04%"
+                    "name": "sl_SI",
+                    "value": 0.05,
+                    "label": "0.05%"
                 },
                 {
-                    "name": "en_PL",
-                    "value": 0.04,
-                    "label": "0.04%"
+                    "name": "en_ID",
+                    "value": 0.05,
+                    "label": "0.05%"
                 },
                 {
-                    "name": "en_IT",
-                    "value": 0.04,
-                    "label": "0.04%"
-                },
-                {
-                    "name": "en_HK",
-                    "value": 0.04,
-                    "label": "0.04%"
-                },
-                {
-                    "name": "de_CH",
-                    "value": 0.04,
-                    "label": "0.04%"
+                    "name": "th_TH",
+                    "value": 0.05,
+                    "label": "0.05%"
                 }
             ],
-            "week": [
+            "month": [
                 {
                     "name": "en_US",
-                    "value": 41.77,
-                    "label": "41.77%"
+                    "value": 41.95,
+                    "label": "41.95%"
                 },
                 {
                     "name": "de_DE",
-                    "value": 11.92,
-                    "label": "11.92%"
+                    "value": 12.22,
+                    "label": "12.22%"
                 },
                 {
                     "name": "en_GB",
-                    "value": 9.78,
-                    "label": "9.78%"
+                    "value": 9.61,
+                    "label": "9.61%"
                 },
                 {
                     "name": "fr_FR",
-                    "value": 4.64,
-                    "label": "4.64%"
+                    "value": 4.79,
+                    "label": "4.79%"
                 },
                 {
                     "name": "zh_CN",
-                    "value": 4.23,
-                    "label": "4.23%"
+                    "value": 3.62,
+                    "label": "3.62%"
                 },
                 {
                     "name": "es_ES",
-                    "value": 2.72,
-                    "label": "2.72%"
+                    "value": 2.77,
+                    "label": "2.77%"
                 },
                 {
                     "name": "ja_JP",
-                    "value": 2.54,
-                    "label": "2.54%"
+                    "value": 2.61,
+                    "label": "2.61%"
                 },
                 {
                     "name": "ru_RU",
-                    "value": 2.29,
-                    "label": "2.29%"
+                    "value": 2.34,
+                    "label": "2.34%"
                 },
                 {
-                    "name": "ko_KR",
-                    "value": 2.1,
-                    "label": "2.10%"
-                },
-                {
-                    "name": "it_IT",
+                    "name": "pt_BR",
                     "value": 2.03,
                     "label": "2.03%"
                 },
                 {
-                    "name": "pt_BR",
-                    "value": 1.82,
-                    "label": "1.82%"
+                    "name": "it_IT",
+                    "value": 1.96,
+                    "label": "1.96%"
+                },
+                {
+                    "name": "ko_KR",
+                    "value": 1.7,
+                    "label": "1.70%"
                 },
                 {
                     "name": "nl_NL",
-                    "value": 1.54,
-                    "label": "1.54%"
-                },
-                {
-                    "name": "es_MX",
-                    "value": 1.31,
-                    "label": "1.31%"
+                    "value": 1.64,
+                    "label": "1.64%"
                 },
                 {
                     "name": "pl_PL",
-                    "value": 1.25,
-                    "label": "1.25%"
+                    "value": 1.35,
+                    "label": "1.35%"
+                },
+                {
+                    "name": "es_MX",
+                    "value": 1.35,
+                    "label": "1.35%"
                 },
                 {
                     "name": "en",
-                    "value": 1.14,
-                    "label": "1.14%"
-                },
-                {
-                    "name": "zh_TW",
-                    "value": 0.95,
-                    "label": "0.95%"
+                    "value": 1.18,
+                    "label": "1.18%"
                 },
                 {
                     "name": "tr_TR",
-                    "value": 0.78,
-                    "label": "0.78%"
+                    "value": 0.84,
+                    "label": "0.84%"
+                },
+                {
+                    "name": "zh_TW",
+                    "value": 0.81,
+                    "label": "0.81%"
                 },
                 {
                     "name": "cs_CZ",
-                    "value": 0.63,
-                    "label": "0.63%"
-                },
-                {
-                    "name": "sv_SE",
-                    "value": 0.63,
-                    "label": "0.63%"
+                    "value": 0.64,
+                    "label": "0.64%"
                 },
                 {
                     "name": "en_IN",
-                    "value": 0.61,
-                    "label": "0.61%"
+                    "value": 0.62,
+                    "label": "0.62%"
                 },
                 {
-                    "name": "uk_UA",
-                    "value": 0.54,
-                    "label": "0.54%"
-                },
-                {
-                    "name": "en_CA",
-                    "value": 0.54,
-                    "label": "0.54%"
+                    "name": "sv_SE",
+                    "value": 0.62,
+                    "label": "0.62%"
                 },
                 {
                     "name": "en_AU",
-                    "value": 0.54,
-                    "label": "0.54%"
+                    "value": 0.56,
+                    "label": "0.56%"
+                },
+                {
+                    "name": "en_CA",
+                    "value": 0.55,
+                    "label": "0.55%"
+                },
+                {
+                    "name": "uk_UA",
+                    "value": 0.47,
+                    "label": "0.47%"
                 },
                 {
                     "name": "da_DK",
@@ -2415,270 +2662,13 @@
                 },
                 {
                     "name": "hu_HU",
-                    "value": 0.32,
-                    "label": "0.32%"
-                },
-                {
-                    "name": "pt_PT",
-                    "value": 0.28,
-                    "label": "0.28%"
-                },
-                {
-                    "name": "nb_NO",
-                    "value": 0.24,
-                    "label": "0.24%"
-                },
-                {
-                    "name": "de",
-                    "value": 0.22,
-                    "label": "0.22%"
-                },
-                {
-                    "name": "fi_FI",
-                    "value": 0.2,
-                    "label": "0.20%"
-                },
-                {
-                    "name": "fr_CA",
-                    "value": 0.2,
-                    "label": "0.20%"
-                },
-                {
-                    "name": "de_AT",
-                    "value": 0.19,
-                    "label": "0.19%"
-                },
-                {
-                    "name": "de_CH",
-                    "value": 0.17,
-                    "label": "0.17%"
-                },
-                {
-                    "name": "sk_SK",
-                    "value": 0.16,
-                    "label": "0.16%"
-                },
-                {
-                    "name": "en_DE",
-                    "value": 0.15,
-                    "label": "0.15%"
-                },
-                {
-                    "name": "en_NL",
-                    "value": 0.14,
-                    "label": "0.14%"
-                },
-                {
-                    "name": "en_NZ",
-                    "value": 0.1,
-                    "label": "0.10%"
-                },
-                {
-                    "name": "en_ZA",
-                    "value": 0.08,
-                    "label": "0.08%"
-                },
-                {
-                    "name": "en_IE",
-                    "value": 0.08,
-                    "label": "0.08%"
-                },
-                {
-                    "name": "es_AR",
-                    "value": 0.07,
-                    "label": "0.07%"
-                },
-                {
-                    "name": "en_PH",
-                    "value": 0.07,
-                    "label": "0.07%"
-                },
-                {
-                    "name": "ar_SA",
-                    "value": 0.07,
-                    "label": "0.07%"
-                },
-                {
-                    "name": "fr",
-                    "value": 0.07,
-                    "label": "0.07%"
-                },
-                {
-                    "name": "el_GR",
-                    "value": 0.06,
-                    "label": "0.06%"
-                },
-                {
-                    "name": "nl_BE",
-                    "value": 0.06,
-                    "label": "0.06%"
-                },
-                {
-                    "name": "en_IL",
-                    "value": 0.06,
-                    "label": "0.06%"
-                },
-                {
-                    "name": "ca_ES",
-                    "value": 0.06,
-                    "label": "0.06%"
-                },
-                {
-                    "name": "th_TH",
-                    "value": 0.06,
-                    "label": "0.06%"
-                },
-                {
-                    "name": "sl_SI",
-                    "value": 0.06,
-                    "label": "0.06%"
-                },
-                {
-                    "name": "fr_BE",
-                    "value": 0.05,
-                    "label": "0.05%"
-                },
-                {
-                    "name": "en_SG",
-                    "value": 0.05,
-                    "label": "0.05%"
-                },
-                {
-                    "name": "en_SE",
-                    "value": 0.05,
-                    "label": "0.05%"
-                }
-            ],
-            "month": [
-                {
-                    "name": "en_US",
-                    "value": 42.33,
-                    "label": "42.33%"
-                },
-                {
-                    "name": "de_DE",
-                    "value": 12.11,
-                    "label": "12.11%"
-                },
-                {
-                    "name": "en_GB",
-                    "value": 9.63,
-                    "label": "9.63%"
-                },
-                {
-                    "name": "fr_FR",
-                    "value": 4.77,
-                    "label": "4.77%"
-                },
-                {
-                    "name": "zh_CN",
-                    "value": 3.44,
-                    "label": "3.44%"
-                },
-                {
-                    "name": "es_ES",
-                    "value": 2.75,
-                    "label": "2.75%"
-                },
-                {
-                    "name": "ja_JP",
-                    "value": 2.57,
-                    "label": "2.57%"
-                },
-                {
-                    "name": "ru_RU",
-                    "value": 2.35,
-                    "label": "2.35%"
-                },
-                {
-                    "name": "pt_BR",
-                    "value": 2.05,
-                    "label": "2.05%"
-                },
-                {
-                    "name": "it_IT",
-                    "value": 1.92,
-                    "label": "1.92%"
-                },
-                {
-                    "name": "nl_NL",
-                    "value": 1.62,
-                    "label": "1.62%"
-                },
-                {
-                    "name": "ko_KR",
-                    "value": 1.55,
-                    "label": "1.55%"
-                },
-                {
-                    "name": "es_MX",
-                    "value": 1.39,
-                    "label": "1.39%"
-                },
-                {
-                    "name": "pl_PL",
-                    "value": 1.35,
-                    "label": "1.35%"
-                },
-                {
-                    "name": "en",
-                    "value": 1.27,
-                    "label": "1.27%"
-                },
-                {
-                    "name": "tr_TR",
-                    "value": 0.85,
-                    "label": "0.85%"
-                },
-                {
-                    "name": "zh_TW",
-                    "value": 0.75,
-                    "label": "0.75%"
-                },
-                {
-                    "name": "cs_CZ",
-                    "value": 0.63,
-                    "label": "0.63%"
-                },
-                {
-                    "name": "en_IN",
-                    "value": 0.62,
-                    "label": "0.62%"
-                },
-                {
-                    "name": "sv_SE",
-                    "value": 0.62,
-                    "label": "0.62%"
-                },
-                {
-                    "name": "en_AU",
-                    "value": 0.58,
-                    "label": "0.58%"
-                },
-                {
-                    "name": "en_CA",
-                    "value": 0.58,
-                    "label": "0.58%"
-                },
-                {
-                    "name": "uk_UA",
-                    "value": 0.46,
-                    "label": "0.46%"
-                },
-                {
-                    "name": "da_DK",
-                    "value": 0.36,
-                    "label": "0.36%"
-                },
-                {
-                    "name": "pt_PT",
                     "value": 0.34,
                     "label": "0.34%"
                 },
                 {
-                    "name": "hu_HU",
-                    "value": 0.34,
-                    "label": "0.34%"
+                    "name": "pt_PT",
+                    "value": 0.33,
+                    "label": "0.33%"
                 },
                 {
                     "name": "nb_NO",
@@ -2691,22 +2681,17 @@
                     "label": "0.22%"
                 },
                 {
+                    "name": "fi_FI",
+                    "value": 0.21,
+                    "label": "0.21%"
+                },
+                {
                     "name": "de_AT",
                     "value": 0.2,
                     "label": "0.20%"
                 },
                 {
-                    "name": "fi_FI",
-                    "value": 0.2,
-                    "label": "0.20%"
-                },
-                {
                     "name": "sk_SK",
-                    "value": 0.19,
-                    "label": "0.19%"
-                },
-                {
-                    "name": "de",
                     "value": 0.17,
                     "label": "0.17%"
                 },
@@ -2714,6 +2699,11 @@
                     "name": "en_DE",
                     "value": 0.17,
                     "label": "0.17%"
+                },
+                {
+                    "name": "de",
+                    "value": 0.16,
+                    "label": "0.16%"
                 },
                 {
                     "name": "de_CH",
@@ -2726,9 +2716,9 @@
                     "label": "0.14%"
                 },
                 {
-                    "name": "en_ZA",
-                    "value": 0.1,
-                    "label": "0.10%"
+                    "name": "el_GR",
+                    "value": 0.09,
+                    "label": "0.09%"
                 },
                 {
                     "name": "en_NZ",
@@ -2736,27 +2726,17 @@
                     "label": "0.09%"
                 },
                 {
-                    "name": "el_GR",
-                    "value": 0.08,
-                    "label": "0.08%"
-                },
-                {
-                    "name": "es_AR",
-                    "value": 0.07,
-                    "label": "0.07%"
-                },
-                {
-                    "name": "th_TH",
-                    "value": 0.07,
-                    "label": "0.07%"
-                },
-                {
-                    "name": "nl_BE",
-                    "value": 0.07,
-                    "label": "0.07%"
+                    "name": "en_ZA",
+                    "value": 0.09,
+                    "label": "0.09%"
                 },
                 {
                     "name": "fr",
+                    "value": 0.07,
+                    "label": "0.07%"
+                },
+                {
+                    "name": "es_AR",
                     "value": 0.07,
                     "label": "0.07%"
                 },
@@ -2766,14 +2746,19 @@
                     "label": "0.07%"
                 },
                 {
-                    "name": "en_PH",
-                    "value": 0.07,
-                    "label": "0.07%"
+                    "name": "th_TH",
+                    "value": 0.06,
+                    "label": "0.06%"
+                },
+                {
+                    "name": "nl_BE",
+                    "value": 0.06,
+                    "label": "0.06%"
                 },
                 {
                     "name": "ar_SA",
-                    "value": 0.07,
-                    "label": "0.07%"
+                    "value": 0.06,
+                    "label": "0.06%"
                 },
                 {
                     "name": "en_IL",
@@ -2781,9 +2766,24 @@
                     "label": "0.06%"
                 },
                 {
-                    "name": "fr_BE",
+                    "name": "en_PH",
                     "value": 0.06,
                     "label": "0.06%"
+                },
+                {
+                    "name": "sl_SI",
+                    "value": 0.06,
+                    "label": "0.06%"
+                },
+                {
+                    "name": "en_SG",
+                    "value": 0.05,
+                    "label": "0.05%"
+                },
+                {
+                    "name": "fr_BE",
+                    "value": 0.05,
+                    "label": "0.05%"
                 },
                 {
                     "name": "en_CH",
@@ -2791,17 +2791,7 @@
                     "label": "0.05%"
                 },
                 {
-                    "name": "sl_SI",
-                    "value": 0.05,
-                    "label": "0.05%"
-                },
-                {
                     "name": "en_SE",
-                    "value": 0.05,
-                    "label": "0.05%"
-                },
-                {
-                    "name": "ca_ES",
                     "value": 0.05,
                     "label": "0.05%"
                 }
@@ -2811,35 +2801,35 @@
             "today": [
                 {
                     "name": "x86_64",
-                    "value": 85.73,
-                    "label": "85.73%"
+                    "value": 84.77,
+                    "label": "84.77%"
                 },
                 {
                     "name": "arm64",
-                    "value": 14.23,
-                    "label": "14.23%"
+                    "value": 15.22,
+                    "label": "15.22%"
                 },
                 {
-                    "name": "arm",
-                    "value": 0.04,
-                    "label": "0.04%"
+                    "name": "i386",
+                    "value": 0.01,
+                    "label": "0.01%"
                 }
             ],
             "week": [
                 {
                     "name": "x86_64",
-                    "value": 83.34,
-                    "label": "83.34%"
+                    "value": 83.92,
+                    "label": "83.92%"
                 },
                 {
                     "name": "arm64",
-                    "value": 16.57,
-                    "label": "16.57%"
+                    "value": 15.99,
+                    "label": "15.99%"
                 },
                 {
                     "name": "arm",
-                    "value": 0.07,
-                    "label": "0.07%"
+                    "value": 0.06,
+                    "label": "0.06%"
                 },
                 {
                     "name": "i386",
@@ -2850,13 +2840,13 @@
             "month": [
                 {
                     "name": "x86_64",
-                    "value": 82.95,
-                    "label": "82.95%"
+                    "value": 83.33,
+                    "label": "83.33%"
                 },
                 {
                     "name": "arm64",
-                    "value": 16.95,
-                    "label": "16.95%"
+                    "value": 16.57,
+                    "label": "16.57%"
                 },
                 {
                     "name": "arm",
