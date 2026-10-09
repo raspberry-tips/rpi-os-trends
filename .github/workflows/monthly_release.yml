@@ -1,0 +1,45 @@
+name: Monthly Zenodo Release
+
+# A GitHub release triggers the Zenodo webhook, which archives the repository
+# and mints a new version DOI under concept DOI 10.5281/zenodo.23269998.
+# Runs on the 1st of each month and only releases if data/ changed since the
+# last release, so the Zenodo record does not collect empty versions.
+
+on:
+  schedule:
+    - cron: '0 6 1 * *' # 1st of each month, 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check for new data since last release
+        id: check
+        run: |
+          last_tag=$(git describe --tags --abbrev=0 2>/dev/null || true)
+          echo "Last release: ${last_tag:-none}"
+          if [ -n "$last_tag" ] && git diff --quiet "$last_tag" HEAD -- data/; then
+            echo "No data changes since $last_tag - skipping release."
+            echo "release=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "release=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create release
+        if: steps.check.outputs.release == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tag="v$(date -u +%Y.%m.%d)"
+          summary=$(python3 -c "import json; p=json.load(open('data/history.json'))['points']; print('%d snapshots, %s to %s' % (len(p), p[0]['date'], p[-1]['date']))")
+          gh release create "$tag" --target "$GITHUB_SHA" \
+            --title "Time series up to $(date -u +%Y-%m)" \
+            --notes "Monthly archived release of the Raspberry Pi Imager download statistics time series ($summary; dimensions: os, host_arch, locale). Data: CC BY 4.0, code: MIT. Cite via concept DOI 10.5281/zenodo.23269998."
