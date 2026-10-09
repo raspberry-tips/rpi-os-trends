@@ -6,6 +6,7 @@ authors:
   - family-names: Schweizer
     given-names: Philipp
     affiliation: raspberry.tips
+    orcid: "https://orcid.org/0009-0009-1016-6649"
 license: CC-BY-4.0
 doi: 10.5281/zenodo.23269998
 repository-code: "https://github.com/raspberry-tips/rpi-os-trends"

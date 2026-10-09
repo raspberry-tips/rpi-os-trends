@@ -4,7 +4,8 @@
   "creators": [
     {
       "name": "Schweizer, Philipp",
-      "affiliation": "raspberry.tips"
+      "affiliation": "raspberry.tips",
+      "orcid": "0009-0009-1016-6649"
     }
   ],
   "description": "<p>Time series of the shares of operating systems, host architectures and locales among downloads through the Raspberry Pi Imager, as published by Raspberry Pi Ltd at <a href=\"https://rpi-imager-stats.raspberrypi.com/\">rpi-imager-stats.raspberrypi.com</a>. Every point is the rolling 30-day window of the source page.</p><p><strong>Sampling.</strong> The source page keeps no history. Points from October 2021 to June 2026 were recovered from snapshots in the Internet Archive (irregular spacing, typically one to several per month; locale and host architecture are available from February 2022). Since 17 August 2026 the series is collected weekly by a GitHub Action. The whole series was parsed with the corrected parser described in the README (an earlier version dropped the leading row of each table; that error affected only the former live snapshot, not this time series).</p><p><strong>Files.</strong> <code>data/history.csv</code> (long format: date, dimension, label, percent), <code>data/history.json</code> (same series), <code>data/rpi_os_stats.json</code> (latest snapshot incl. all dimensions and periods), plus the collection and backfill scripts.</p><p><strong>Scope.</strong> Shares refer to downloads via the Raspberry Pi Imager only, not to the installed base. Images written with dd, vendor flashers or distribution repositories are not counted.</p><p>Data licensed CC BY 4.0 (compilation and time series), code MIT. Underlying figures: Raspberry Pi Ltd. Analysis and charts: <a href=\"https://raspberry.tips/en/raspberry-pi-os-statistics\">raspberry.tips</a>.</p>",
