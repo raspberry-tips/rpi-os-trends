@@ -1,5 +1,7 @@
 # rpi-os-trends
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23269998.svg)](https://doi.org/10.5281/zenodo.23269998)
+
 Sammelt die Download-Statistiken des Raspberry Pi Imager von
 <https://rpi-imager-stats.raspberrypi.com/> und schreibt sie als Zeitreihe fort.
 Datenbasis für <https://raspberry.tips/raspberry-pi-os-statistik-trends>.
@@ -98,4 +100,7 @@ Zitiervorschlag (Metadaten in `CITATION.cff`, GitHub zeigt dazu „Cite this rep
 
 > Schweizer, P. (2026). *Raspberry Pi Imager download statistics: time series
 > 2021–2026 (rpi-os-trends)* [Data set]. raspberry.tips.
-> https://github.com/raspberry-tips/rpi-os-trends
+> https://doi.org/10.5281/zenodo.23269998
+
+Die DOI oben ist die Concept-DOI und zeigt immer auf die neueste Version.
+Jede Version hat zusätzlich eine eigene DOI (erste Version: 10.5281/zenodo.23269999).

@@ -7,6 +7,7 @@ authors:
     given-names: Philipp
     affiliation: raspberry.tips
 license: CC-BY-4.0
+doi: 10.5281/zenodo.23269998
 repository-code: "https://github.com/raspberry-tips/rpi-os-trends"
 url: "https://raspberry.tips/en/raspberry-pi-os-statistics"
 abstract: >-
