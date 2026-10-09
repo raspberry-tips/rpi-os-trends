@@ -11,6 +11,9 @@ Erzeugt zwei Dateien:
                             das Datum (die WP-Cron läuft täglich, die Action
                             wöchentlich — ohne Dedupe entstünden Duplikate).
 
+  data/history.csv        — dieselbe Zeitreihe flach (date, dimension, label,
+                            percent), erzeugt über export_csv.py.
+
 Die Prozentwerte sind Anteile an den Downloads über den Raspberry Pi Imager,
 nicht an der installierten Basis.
 """
@@ -24,11 +27,13 @@ from datetime import datetime, timezone
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from rpi_stats_parser import parse_stats_page, sanity_check
+from export_csv import write_history_csv
 
 SOURCE_URL = "https://rpi-imager-stats.raspberrypi.com/"
 DATA_DIR = "data"
 CURRENT_FILE = os.path.join(DATA_DIR, "rpi_os_stats.json")
 HISTORY_FILE = os.path.join(DATA_DIR, "history.json")
+HISTORY_CSV = os.path.join(DATA_DIR, "history.csv")
 
 # Nur diese Dimensionen wandern in die Zeitreihe. `image` und `version` sind
 # extrem kleinteilig (jede Point-Release eigene Zeile) und würden history.json
@@ -163,6 +168,9 @@ def main(argv=None):
         f.write("\n")
     print("Geschrieben: %s (%d Datenpunkte, %s .. %s)" % (
         HISTORY_FILE, len(points), points[0]["date"], points[-1]["date"]))
+
+    rows = write_history_csv(history, HISTORY_CSV)
+    print("Geschrieben: %s (%d Zeilen)" % (HISTORY_CSV, rows))
     return 0
 
 

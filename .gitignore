@@ -12,6 +12,9 @@
 !/README.md
 !/requirements.txt
 !/.gitignore
+!/LICENSE
+!/CITATION.cff
+!/.zenodo.json
 
 # Still ignore python cache within allowed dirs
 **/__pycache__/

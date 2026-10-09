@@ -14,6 +14,8 @@ oder aus dem Distributions-Repo schreibt, taucht hier nicht auf.
 |------|--------|
 | `data/rpi_os_stats.json` | Aktueller Stand. `top_10` bleibt aus Kompatibilitätsgründen erhalten, `snapshot` enthält alle Dimensionen und Zeiträume. |
 | `data/history.json` | Zeitreihe, ein Punkt je Tag, rollierendes 30-Tage-Fenster. |
+| `data/history.csv` | Dieselbe Zeitreihe flach: `date, dimension, label, percent` (Dimensionen `os`, `host_arch`, `locale`). |
+| `scripts/export_csv.py` | Erzeugt `history.csv` aus `history.json`, läuft im Fetch-Script mit. |
 | `scripts/rpi_stats_parser.py` | Gemeinsamer Parser für Live-Abruf und Backfill. |
 | `scripts/fetch_rpi_os_stats.py` | Wöchentlicher Abruf, schreibt beide Datendateien. |
 | `scripts/backfill_from_wayback.py` | Einmaliger Backfill aus dem Internet Archive. |
@@ -84,3 +86,16 @@ und rendert sie über die Shortcodes `[rpi_os_stats]` und `[rpi_os_history]`
 Ausserdem fasst v2 den Seiteninhalt nicht mehr an. v1 schrieb den Post per
 `wp_update_post` täglich neu, was `post_modified` und damit `lastmod` in der
 Sitemap ohne inhaltlichen Grund hochzählte.
+
+## Lizenz und Zitieren
+
+Daten (`data/`) unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Code unter MIT — Details in `LICENSE`. Die zugrunde liegenden Prozentwerte
+veröffentlicht Raspberry Pi Ltd; CC BY bezieht sich auf die Zusammenstellung
+und Zeitreihe in diesem Repository.
+
+Zitiervorschlag (Metadaten in `CITATION.cff`, GitHub zeigt dazu „Cite this repository"):
+
+> Schweizer, P. (2026). *Raspberry Pi Imager download statistics: time series
+> 2021–2026 (rpi-os-trends)* [Data set]. raspberry.tips.
+> https://github.com/raspberry-tips/rpi-os-trends

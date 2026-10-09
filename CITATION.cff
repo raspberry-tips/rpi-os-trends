@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Raspberry Pi Imager download statistics: time series 2021–2026 (rpi-os-trends)"
+authors:
+  - family-names: Schweizer
+    given-names: Philipp
+    affiliation: raspberry.tips
+license: CC-BY-4.0
+repository-code: "https://github.com/raspberry-tips/rpi-os-trends"
+url: "https://raspberry.tips/en/raspberry-pi-os-statistics"
+abstract: >-
+  Time series of the shares of operating systems, host architectures and
+  locales among downloads through the Raspberry Pi Imager, as published by
+  Raspberry Pi Ltd at https://rpi-imager-stats.raspberrypi.com/ (rolling
+  30-day window). Points from October 2021 to June 2026 were recovered from
+  Internet Archive snapshots; since 17 August 2026 the series is collected
+  weekly by a GitHub Action. Shares refer to Imager downloads, not to the installed base.
+keywords:
+  - Raspberry Pi
+  - Raspberry Pi Imager
+  - operating systems
+  - download statistics
+  - single-board computers
+  - time series
