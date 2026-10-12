@@ -8389,3 +8389,109 @@ date,dimension,label,percent
 2026-10-05,locale,ca_ES,0.05
 2026-10-05,locale,en_SG,0.05
 2026-10-05,locale,vi_VN,0.05
+2026-10-12,os,Raspberry Pi OS (64-bit),39.69
+2026-10-12,os,Raspberry Pi OS (other),26.21
+2026-10-12,os,Home Assistant,6.18
+2026-10-12,os,Raspberry Pi OS (32-bit),6.11
+2026-10-12,os,Ubuntu,5.53
+2026-10-12,os,"Raspberry Pi OS (Legacy, 32-bit)",1.77
+2026-10-12,os,Bootloader (Pi 4 family),1.72
+2026-10-12,os,Recalbox,1.64
+2026-10-12,os,RetroPie,1.24
+2026-10-12,os,Bootloader (Pi 5 family),1.09
+2026-10-12,os,OctoPi,0.99
+2026-10-12,os,LibreELEC,0.90
+2026-10-12,os,DietPi,0.88
+2026-10-12,os,Mainsail OS,0.77
+2026-10-12,os,moOde audio player,0.61
+2026-10-12,os,Kali Linux,0.61
+2026-10-12,os,Armbian OS,0.39
+2026-10-12,os,Volumio,0.38
+2026-10-12,os,PINN,0.31
+2026-10-12,os,Alpine Linux,0.26
+2026-10-12,os,Homebridge,0.24
+2026-10-12,os,Android by emteria,0.24
+2026-10-12,os,piCorePlayer,0.23
+2026-10-12,os,FullPageOS,0.18
+2026-10-12,os,OSMC,0.18
+2026-10-12,os,Anthias,0.17
+2026-10-12,os,DAKboard,0.17
+2026-10-12,os,Falcon Player (FPP),0.16
+2026-10-12,os,RaspAP,0.15
+2026-10-12,os,OpenCCU,0.11
+2026-10-12,os,evcc,0.11
+2026-10-12,os,Bass ARM (Android),0.10
+2026-10-12,os,RISC OS Pi,0.08
+2026-10-12,os,OctoKlipperPi,0.08
+2026-10-12,os,openHAB,0.06
+2026-10-12,os,Ultramarine Linux,0.05
+2026-10-12,os,"SimplyPrint - 3D print anywhere, smarter",0.04
+2026-10-12,os,ADS-B Feeder Image,0.04
+2026-10-12,os,Yodeck Digital Signage,0.04
+2026-10-12,os,Gladys Assistant,0.04
+2026-10-12,os,Homey Self-Hosted Server,0.03
+2026-10-12,os,FreedomBox,0.03
+2026-10-12,os,eBlockerOS,0.03
+2026-10-12,os,SatNOGS,0.02
+2026-10-12,os,Apertis,0.02
+2026-10-12,os,MoodleBox,0.02
+2026-10-12,os,Repetier-Server,0.02
+2026-10-12,os,LoLaOS,0.02
+2026-10-12,os,Screenly Digital Signage,0.01
+2026-10-12,os,Misc utility images,0.01
+2026-10-12,os,DuetPi,0.01
+2026-10-12,host_arch,x86_64,83.52
+2026-10-12,host_arch,arm64,16.36
+2026-10-12,host_arch,arm,0.08
+2026-10-12,host_arch,i386,0.03
+2026-10-12,locale,en_US,41.64
+2026-10-12,locale,de_DE,12.59
+2026-10-12,locale,en_GB,9.22
+2026-10-12,locale,fr_FR,4.93
+2026-10-12,locale,zh_CN,3.60
+2026-10-12,locale,ja_JP,2.87
+2026-10-12,locale,es_ES,2.86
+2026-10-12,locale,ru_RU,2.47
+2026-10-12,locale,it_IT,1.98
+2026-10-12,locale,pt_BR,1.95
+2026-10-12,locale,nl_NL,1.69
+2026-10-12,locale,ko_KR,1.50
+2026-10-12,locale,pl_PL,1.44
+2026-10-12,locale,es_MX,1.32
+2026-10-12,locale,en,1.00
+2026-10-12,locale,tr_TR,0.80
+2026-10-12,locale,zh_TW,0.78
+2026-10-12,locale,cs_CZ,0.66
+2026-10-12,locale,en_IN,0.65
+2026-10-12,locale,sv_SE,0.64
+2026-10-12,locale,en_CA,0.54
+2026-10-12,locale,en_AU,0.53
+2026-10-12,locale,uk_UA,0.52
+2026-10-12,locale,da_DK,0.39
+2026-10-12,locale,hu_HU,0.37
+2026-10-12,locale,pt_PT,0.32
+2026-10-12,locale,nb_NO,0.27
+2026-10-12,locale,fr_CA,0.23
+2026-10-12,locale,fi_FI,0.20
+2026-10-12,locale,de_AT,0.20
+2026-10-12,locale,en_DE,0.19
+2026-10-12,locale,sk_SK,0.18
+2026-10-12,locale,de_CH,0.16
+2026-10-12,locale,de,0.14
+2026-10-12,locale,en_NL,0.13
+2026-10-12,locale,el_GR,0.09
+2026-10-12,locale,en_NZ,0.09
+2026-10-12,locale,en_ZA,0.08
+2026-10-12,locale,en_IE,0.07
+2026-10-12,locale,ar_SA,0.07
+2026-10-12,locale,en_SE,0.07
+2026-10-12,locale,es_AR,0.07
+2026-10-12,locale,fr,0.07
+2026-10-12,locale,nl_BE,0.06
+2026-10-12,locale,en_IL,0.06
+2026-10-12,locale,fr_BE,0.06
+2026-10-12,locale,sl_SI,0.06
+2026-10-12,locale,en_CH,0.05
+2026-10-12,locale,vi_VN,0.05
+2026-10-12,locale,fr_CH,0.05
+2026-10-12,locale,en_SG,0.05
