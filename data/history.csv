@@ -8495,3 +8495,109 @@ date,dimension,label,percent
 2026-10-12,locale,vi_VN,0.05
 2026-10-12,locale,fr_CH,0.05
 2026-10-12,locale,en_SG,0.05
+2026-10-19,os,Raspberry Pi OS (64-bit),39.34
+2026-10-19,os,Raspberry Pi OS (other),26.36
+2026-10-19,os,Home Assistant,6.44
+2026-10-19,os,Raspberry Pi OS (32-bit),6.16
+2026-10-19,os,Ubuntu,5.39
+2026-10-19,os,Bootloader (Pi 4 family),1.80
+2026-10-19,os,"Raspberry Pi OS (Legacy, 32-bit)",1.76
+2026-10-19,os,Recalbox,1.65
+2026-10-19,os,RetroPie,1.22
+2026-10-19,os,Bootloader (Pi 5 family),1.11
+2026-10-19,os,OctoPi,0.99
+2026-10-19,os,LibreELEC,0.88
+2026-10-19,os,DietPi,0.85
+2026-10-19,os,Mainsail OS,0.77
+2026-10-19,os,moOde audio player,0.61
+2026-10-19,os,Kali Linux,0.60
+2026-10-19,os,Volumio,0.38
+2026-10-19,os,Armbian OS,0.38
+2026-10-19,os,PINN,0.31
+2026-10-19,os,Homebridge,0.27
+2026-10-19,os,Alpine Linux,0.26
+2026-10-19,os,piCorePlayer,0.23
+2026-10-19,os,Android by emteria,0.23
+2026-10-19,os,OSMC,0.19
+2026-10-19,os,Anthias,0.18
+2026-10-19,os,Falcon Player (FPP),0.18
+2026-10-19,os,FullPageOS,0.17
+2026-10-19,os,DAKboard,0.17
+2026-10-19,os,RaspAP,0.15
+2026-10-19,os,OpenCCU,0.11
+2026-10-19,os,evcc,0.10
+2026-10-19,os,Bass ARM (Android),0.09
+2026-10-19,os,RISC OS Pi,0.09
+2026-10-19,os,OctoKlipperPi,0.08
+2026-10-19,os,openHAB,0.06
+2026-10-19,os,Ultramarine Linux,0.05
+2026-10-19,os,ADS-B Feeder Image,0.04
+2026-10-19,os,"SimplyPrint - 3D print anywhere, smarter",0.04
+2026-10-19,os,Yodeck Digital Signage,0.04
+2026-10-19,os,Gladys Assistant,0.04
+2026-10-19,os,FreedomBox,0.03
+2026-10-19,os,Homey Self-Hosted Server,0.03
+2026-10-19,os,eBlockerOS,0.03
+2026-10-19,os,SatNOGS,0.02
+2026-10-19,os,Apertis,0.02
+2026-10-19,os,MoodleBox,0.02
+2026-10-19,os,Repetier-Server,0.02
+2026-10-19,os,LoLaOS,0.02
+2026-10-19,os,VEX Tournament Manager,0.01
+2026-10-19,os,Misc utility images,0.01
+2026-10-19,os,Screenly Digital Signage,0.01
+2026-10-19,host_arch,x86_64,83.32
+2026-10-19,host_arch,arm64,16.56
+2026-10-19,host_arch,arm,0.09
+2026-10-19,host_arch,i386,0.03
+2026-10-19,locale,en_US,41.73
+2026-10-19,locale,de_DE,12.75
+2026-10-19,locale,en_GB,9.22
+2026-10-19,locale,fr_FR,4.96
+2026-10-19,locale,zh_CN,3.54
+2026-10-19,locale,es_ES,2.86
+2026-10-19,locale,ja_JP,2.85
+2026-10-19,locale,ru_RU,2.51
+2026-10-19,locale,it_IT,2.00
+2026-10-19,locale,pt_BR,1.87
+2026-10-19,locale,nl_NL,1.71
+2026-10-19,locale,pl_PL,1.43
+2026-10-19,locale,ko_KR,1.41
+2026-10-19,locale,es_MX,1.32
+2026-10-19,locale,tr_TR,0.81
+2026-10-19,locale,en,0.80
+2026-10-19,locale,zh_TW,0.78
+2026-10-19,locale,cs_CZ,0.69
+2026-10-19,locale,sv_SE,0.64
+2026-10-19,locale,en_IN,0.63
+2026-10-19,locale,en_CA,0.55
+2026-10-19,locale,uk_UA,0.53
+2026-10-19,locale,en_AU,0.53
+2026-10-19,locale,da_DK,0.38
+2026-10-19,locale,hu_HU,0.37
+2026-10-19,locale,pt_PT,0.34
+2026-10-19,locale,nb_NO,0.27
+2026-10-19,locale,fr_CA,0.22
+2026-10-19,locale,sk_SK,0.20
+2026-10-19,locale,de_AT,0.20
+2026-10-19,locale,fi_FI,0.20
+2026-10-19,locale,en_DE,0.18
+2026-10-19,locale,de,0.16
+2026-10-19,locale,de_CH,0.16
+2026-10-19,locale,en_NL,0.12
+2026-10-19,locale,el_GR,0.10
+2026-10-19,locale,en_NZ,0.08
+2026-10-19,locale,en_ZA,0.08
+2026-10-19,locale,en_IE,0.07
+2026-10-19,locale,ar_SA,0.07
+2026-10-19,locale,en_SE,0.07
+2026-10-19,locale,fr,0.07
+2026-10-19,locale,en_IL,0.07
+2026-10-19,locale,nl_BE,0.07
+2026-10-19,locale,es_AR,0.07
+2026-10-19,locale,sl_SI,0.06
+2026-10-19,locale,fr_BE,0.06
+2026-10-19,locale,en_CH,0.05
+2026-10-19,locale,ro_RO,0.05
+2026-10-19,locale,he_IL,0.05
+2026-10-19,locale,th_TH,0.05
