@@ -15,6 +15,7 @@
 !/LICENSE
 !/CITATION.cff
 !/.zenodo.json
+!/.mirror/
 
 # Still ignore python cache within allowed dirs
 **/__pycache__/

@@ -1,0 +1,72 @@
+{
+  "github": "https://github.com/raspberry-tips/rpi-os-trends",
+  "hf_repo": "raspberry-tips/raspberry-pi-imager-os-download-shares",
+  "kaggle_id": "philippschweizer/raspberry-pi-imager-os-download-shares",
+  "title": "Raspberry Pi Imager OS Download Shares 2021-2026",
+  "subtitle": "OS shares of Raspberry Pi Imager downloads as a time series since 2021",
+  "files": [
+    "data/history.csv",
+    "data/history.json",
+    "data/rpi_os_stats.json"
+  ],
+  "size_category": "1K<n<10K",
+  "keywords": [
+    "raspberry-pi",
+    "operating-systems",
+    "linux",
+    "time-series",
+    "software-adoption",
+    "open-data"
+  ],
+  "kaggle_keywords": [
+    "computer science",
+    "software",
+    "time series analysis"
+  ],
+  "update_frequency": "weekly",
+  "sources": "Raspberry Pi Imager statistics page https://rpi-imager-stats.raspberrypi.com/ (published by Raspberry Pi Ltd), monthly window. History 2021-2026 reconstructed from Internet Archive captures of that page, weekly scrape since 2026. Collection and method: https://github.com/raspberry-tips/rpi-os-trends",
+  "hf_configs": [
+    {
+      "config_name": "default",
+      "data_files": "history.csv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "history.csv",
+      "description": "Full time series in long format: one row per date, dimension and label. Percent values are shares of Raspberry Pi Imager downloads in the source's rolling 30-day window.",
+      "schema": {
+        "fields": [
+          {
+            "name": "date",
+            "type": "datetime",
+            "description": "Date of the observation (YYYY-MM-DD). Each value covers the 30 days up to this date."
+          },
+          {
+            "name": "dimension",
+            "type": "string",
+            "description": "What is being counted: os (operating system or image family), host_arch (CPU architecture of the computer running the Imager, not the image bitness) or locale (Imager UI language)."
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "description": "Category within the dimension as named by the source, e.g. 'Raspberry Pi OS (64-bit)', 'x86_64' or 'de_DE'."
+          },
+          {
+            "name": "percent",
+            "type": "numeric",
+            "description": "Share of Imager downloads in percent for this date, dimension and label."
+          }
+        ]
+      }
+    },
+    {
+      "path": "history.json",
+      "description": "The same time series as history.csv in JSON, one entry per date with all dimensions."
+    },
+    {
+      "path": "rpi_os_stats.json",
+      "description": "Latest snapshot of the source with every dimension and all three windows (today, week, month). 'top_10' is kept for backwards compatibility."
+    }
+  ]
+}
