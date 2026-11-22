@@ -21,6 +21,7 @@ import csv
 import io
 import json
 import os
+import re
 import shutil
 import subprocess
 import sys
@@ -99,7 +100,32 @@ def kaggle_metadata(cfg, card):
     }
 
 
+_kaggle_ready = False
+
+
+def ensure_kaggle_cli():
+    """Make sure the kaggle CLI starts. Some releases import modules they do not declare
+    as dependencies (e.g. 'six'); install those on the fly instead of misreading the
+    crash as 'dataset not found'."""
+    global _kaggle_ready
+    if _kaggle_ready:
+        return
+    for _ in range(3):
+        r = subprocess.run(["kaggle", "--version"], capture_output=True, text=True)
+        if r.returncode == 0:
+            _kaggle_ready = True
+            return
+        missing = re.search(r"No module named '([\w.]+)'", r.stderr)
+        if not missing:
+            break
+        module = missing.group(1).split(".")[0]
+        print(f"  kaggle CLI misses module '{module}', installing it")
+        subprocess.run([sys.executable, "-m", "pip", "install", "-q", module], check=True)
+    sys.exit("ABORT: kaggle CLI does not start:\n" + r.stderr[-1500:])
+
+
 def kaggle(args, quiet=False):
+    ensure_kaggle_cli()
     r = subprocess.run(["kaggle", *args], capture_output=True, text=True)
     out = " | ".join(l for l in (r.stdout + r.stderr).splitlines() if "%|" not in l and l.strip())
     if not quiet:
@@ -120,10 +146,14 @@ def mirror_times(cfg):
 
     try:
         hf_time = HfApi(token=os.environ.get("HF_TOKEN") or None).dataset_info(cfg["hf_repo"]).last_modified
-    except Exception:
+    except Exception as e:
+        print(f"  hf lookup failed: {type(e).__name__}: {e}")
         hf_time = None
     rc, out = kaggle(["datasets", "list", "--mine", "--csv"], quiet=True)
-    kg_raw = {r["ref"]: r["lastUpdated"] for r in csv.DictReader(io.StringIO(out))}.get(cfg["kaggle_id"]) if rc == 0 else None
+    if rc != 0:
+        # Never treat an API/auth failure as "dataset missing" - that would try to create it again.
+        sys.exit("ABORT: kaggle datasets list failed (token missing or invalid?)")
+    kg_raw = {r["ref"]: r["lastUpdated"] for r in csv.DictReader(io.StringIO(out))}.get(cfg["kaggle_id"])
     kg_time = ts(kg_raw.replace(" ", "T") + ("" if "+" in kg_raw else "+00:00")) if kg_raw else None
     return {"hf": hf_time, "kaggle": kg_time}
 
