@@ -4,6 +4,8 @@
 
 **English** · [Deutsch](#deutsch)
 
+Mirrors: [Hugging Face](https://huggingface.co/datasets/raspberry-tips/raspberry-pi-imager-os-download-shares) · [Kaggle](https://www.kaggle.com/datasets/philippschweizer/raspberry-pi-imager-os-download-shares). This repository stays the canonical source and updates first.
+
 Collects the download statistics of the Raspberry Pi Imager from
 <https://rpi-imager-stats.raspberrypi.com/> and keeps them as a time series
 going back to October 2021. Charts and method:
